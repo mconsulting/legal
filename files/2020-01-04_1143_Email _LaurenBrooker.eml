@@ -1,0 +1,333 @@
+Received: from BL0PR16MB2660.namprd16.prod.outlook.com (2603:10b6:208:73::23)
+ by SA2PR16MB4138.namprd16.prod.outlook.com with HTTPS; Mon, 4 Jan 2021
+ 17:42:51 +0000
+Received: from DM6PR06CA0034.namprd06.prod.outlook.com (2603:10b6:5:120::47)
+ by BL0PR16MB2660.namprd16.prod.outlook.com (2603:10b6:208:73::23) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3721.19; Mon, 4 Jan
+ 2021 17:42:48 +0000
+Received: from DM6NAM11FT060.eop-nam11.prod.protection.outlook.com
+ (2603:10b6:5:120:cafe::49) by DM6PR06CA0034.outlook.office365.com
+ (2603:10b6:5:120::47) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3721.19 via Frontend
+ Transport; Mon, 4 Jan 2021 17:42:48 +0000
+Authentication-Results: spf=pass (sender IP is 209.85.167.50)
+ smtp.mailfrom=flpd2.com; lancemason.com; dkim=pass (signature was verified)
+ header.d=flpd2-com.20150623.gappssmtp.com;lancemason.com; dmarc=bestguesspass
+ action=none header.from=flpd2.com;compauth=pass reason=109
+Received-SPF: Pass (protection.outlook.com: domain of flpd2.com designates
+ 209.85.167.50 as permitted sender) receiver=protection.outlook.com;
+ client-ip=209.85.167.50; helo=mail-lf1-f50.google.com;
+Received: from mail-lf1-f50.google.com (209.85.167.50) by
+ DM6NAM11FT060.mail.protection.outlook.com (10.13.173.63) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.20.3721.23 via Frontend Transport; Mon, 4 Jan 2021 17:42:48 +0000
+Received: by mail-lf1-f50.google.com with SMTP id m12so66288669lfo.7
+        for <lance@lancemason.com>; Mon, 04 Jan 2021 09:42:47 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=flpd2-com.20150623.gappssmtp.com; s=20150623;
+        h=mime-version:references:in-reply-to:from:date:message-id:subject:to;
+        bh=BHEl7Y193JC7dOtfwqPVSRRNcpUilrvAz7+1MqyPsZY=;
+        b=QPJySQcgQm2sUfwNAAbB9I9JUB2Ln0Vbaer4zfPUf7l4TqVAerRUApOodhl3qzzAxJ
+         VwY5waBVSK2w5psoSThoFPNIdjdtBuTOh4q9PSCFwyvLt03bNt0ZuPygJDPsNUu5x/jM
+         phwHDi0jpL2XEixA0th1zODAR1y0kUBW6n45Kpo15mSyoH1U5FyCs6ncgxiKfQYe3MQ7
+         yVfzj6nM3siq84TTuig7K2T7U9XHiMfK3RyPqivPlSU6Cy9f4oQX1QCEaHhwvDjIdpk4
+         pYCZyMs119JKsFuXjzVfSsVdvMTem51ThFI7T1etd/rkEXn7hZ4+dUJDb1Mypq1+1Oiy
+         FiXQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:references:in-reply-to:from:date
+         :message-id:subject:to;
+        bh=BHEl7Y193JC7dOtfwqPVSRRNcpUilrvAz7+1MqyPsZY=;
+        b=sxPPh7e5bJuw5ckFFH5LFEXOFxhRp1QMHt5orJmgeMeSGzGf8ojAgAOvczc7HVDlAe
+         9LKilnOiAmZw2VZC54/AbPFxvO1GZ6QiG+905ncxpHQ/azg0FM/D6j5wDRt299GvI6WH
+         imxJXBwxRptZEUPcL5eqaf6MasSkLEQ6bzYX/OhjpuDUiFs+Fl8EX4FDoc6yYVt6ZQMH
+         HS64JsY2nQvCw9jrOzw/846cHc6N1bK2Vo713GhjbljEo2DpQM4Xf3NO8V7jRsCM2t32
+         VV7GYiGhI09Xi/4I3sKYDWW0pvFvZwJRc0TR3yo5ey26ZcFlZ1kOxS+pcTSat9If1Qf2
+         kv7w==
+X-Gm-Message-State: AOAM532l4b/nrsGHfeRsvxDCm9OvYUc5Pd0CjtHY9fn64oyq7/L4MUFn
+	Guf9beUNz8ZJP6DUYKJub+tqLbHVilUxuhP9CJL+0dZQQ5nDp1+F
+X-Google-Smtp-Source: ABdhPJwza0cjHd4zCh9O4gsDExMYlGtVO4dSz7pTQJmVBZqvOryxD1Aw2P1r2OyrhctnAM7YnDBGRpp6Uc8zMVC0JQo=
+X-Received: by 2002:a05:6512:368d:: with SMTP id d13mr30311633lfs.414.1609782166272;
+ Mon, 04 Jan 2021 09:42:46 -0800 (PST)
+References: <BN6PR16MB3281EDE319358703E2749793CBDF0@BN6PR16MB3281.namprd16.prod.outlook.com>
+ <CANNrm6q-yOwtToD7S-3Hsy06xY9nGjkOkG4TQkWrccwShSqKjg@mail.gmail.com> <BN6PR16MB32810D9E5E740E18A1B83560CBD70@BN6PR16MB3281.namprd16.prod.outlook.com>
+In-Reply-To: <BN6PR16MB32810D9E5E740E18A1B83560CBD70@BN6PR16MB3281.namprd16.prod.outlook.com>
+From: Lauren Brooker <lauren.brooker@flpd2.com>
+Date: Mon, 4 Jan 2021 12:42:34 -0500
+Message-ID: <CANNrm6puhG0-GowvrXu9tMjUSTDnGu4f_guYsc422tdxCNH6og@mail.gmail.com>
+Subject: Re: Lauren
+To: Lance Mason <lance@lancemason.com>
+Content-Type: multipart/alternative; boundary="0000000000002fd56b05b8169e59"
+Return-Path: lauren.brooker@flpd2.com
+X-MS-Exchange-Organization-ExpirationStartTime: 04 Jan 2021 17:42:48.1325
+ (UTC)
+X-MS-Exchange-Organization-ExpirationStartTimeReason: OriginalSubmit
+X-MS-Exchange-Organization-ExpirationInterval: 1:00:00:00.0000000
+X-MS-Exchange-Organization-ExpirationIntervalReason: OriginalSubmit
+X-MS-Exchange-Organization-Network-Message-Id:
+ 8a887e35-3097-4a0f-9556-08d8b0d826ae
+X-EOPAttributedMessage: 0
+X-EOPTenantAttributedMessage: 3f7b1d37-147d-4093-a22d-49029be52176:0
+X-MS-Exchange-Organization-MessageDirectionality: Incoming
+X-MS-PublicTrafficType: Email
+X-MS-Exchange-Organization-AuthSource:
+ DM6NAM11FT060.eop-nam11.prod.protection.outlook.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Office365-Filtering-Correlation-Id: 8a887e35-3097-4a0f-9556-08d8b0d826ae
+X-MS-TrafficTypeDiagnostic: BL0PR16MB2660:
+X-MS-Oob-TLC-OOBClassifiers: OLM:8273;
+X-MS-Exchange-Organization-SCL: 1
+X-Microsoft-Antispam: BCL:0;
+X-Forefront-Antispam-Report:
+ CIP:209.85.167.50;CTRY:US;LANG:en;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:mail-lf1-f50.google.com;PTR:mail-lf1-f50.google.com;CAT:NONE;SFS:(53546011)(33964004)(6666004)(9686003)(45080400002)(26005)(336012)(8676002)(42186006)(6916009)(1096003)(7116003)(166002)(55446002)(7596003)(356005)(7636003)(83380400001)(5660300002)(86362001)(3480700007)(44832011);DIR:INB;
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 04 Jan 2021 17:42:48.0585
+ (UTC)
+X-MS-Exchange-CrossTenant-Network-Message-Id: 8a887e35-3097-4a0f-9556-08d8b0d826ae
+X-MS-Exchange-CrossTenant-Id: 3f7b1d37-147d-4093-a22d-49029be52176
+X-MS-Exchange-CrossTenant-AuthSource:
+ DM6NAM11FT060.eop-nam11.prod.protection.outlook.com
+X-MS-Exchange-CrossTenant-AuthAs: Anonymous
+X-MS-Exchange-CrossTenant-FromEntityHeader: Internet
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: BL0PR16MB2660
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:03.3163736
+X-MS-Exchange-Processed-By-BccFoldering: 15.20.3721.024
+X-Message-Flag: Flag for follow up
+X-Microsoft-Antispam-Mailbox-Delivery:
+	ucf:0;jmr:0;auth:0;dest:I;ENG:(20160514016)(750128)(520011016)(944506458)(944626604);
+X-Microsoft-Antispam-Message-Info:
+	=?utf-8?B?Y3ZrYUFDb2JkTEh6SStWWUQwOVFoS1ZMZUpiRHNOaUdFelM2d0o3dUVNMDFU?=
+ =?utf-8?B?YzFobUxWcWJ5UHVCSXJOdW1pMHVWazhhaXVlN01IVmZMT0toVmxxWm1xellT?=
+ =?utf-8?B?OU1adGtzNVJHYUZjZVBmN1l3a0l1UnBlWFNPeTJIQm9FMDJINm13Rmkyc09a?=
+ =?utf-8?B?MzIzNGRJRTRXUG5Uc3J1YlFpSi9JNWp4TGs2Q0ViZkhFNXkyMitMWXhHVVhU?=
+ =?utf-8?B?bWRQdWtCc3lpbllyQWRzNDFwMkRGSHpHc1NjbmNjcWJHNHhESjFsRWlLZFhi?=
+ =?utf-8?B?QitGdUVJRVdsdGp4eVhHUyszVDBjc3dxRW0wUGZUZ213akljdnYyNnZsZjA1?=
+ =?utf-8?B?bmdpbHUzS2JRbDBNTWxRSlNyUVcxbUhOekVnMTFlQytVSmJ4UjhKSWR2YzZZ?=
+ =?utf-8?B?YTZMSDZyQTRlbm5kSUhDWlI5Vk4yTWxhMVVjU3cydDcxVFJmU2VBWHFzaXlk?=
+ =?utf-8?B?UjZIS2FaNW9HS3pkazBhYmd6WTg1ZDExdGhORjJYcWFkNE5UenRxVnBvRVdu?=
+ =?utf-8?B?bnVaMnNOWml1blpwZFVzU2FBVmF3czhndlJWRHkyUERIMEwwbTRDNExVYlcv?=
+ =?utf-8?B?ZmFiZU5XNDRGTlhpVXdCaEhNSmt6SjUyYkxRZHhleHpXWmxvNkt3UWNpSHM3?=
+ =?utf-8?B?Zlhmc3FrT1hOYUU5Z1NtNm9RRi9kNnlHUURCV0tNbVRycXJSQUgzbHNLMEUw?=
+ =?utf-8?B?N1hzczhORzZmamh4UnFGWlVaeExmcFluRW9IQjliYisyVXdNY0xCRHh5WC8r?=
+ =?utf-8?B?VVNqY1Jjem5FWkNPbkVUMFZIMWFDRXd1TzVoWmxrUGUrSEVBRzlMaTVDaW9R?=
+ =?utf-8?B?akpDRldkdWxtZE92OVlJaUFtY1hTRlhUYlBFNHZ4eGhtWFI4YmdPZGc5NG1Z?=
+ =?utf-8?B?YzBRYndsNW4yRTIxbG1Yb2lBSTVvcFF0Y2JEK1NuZzJ1bXRlMkRUUmlCcHEr?=
+ =?utf-8?B?ZHdsRzllWEFQbWR2Q29KK2VOb1lBbjBVZlJtS0RMcUliRUhCd1B0NWs0S1ln?=
+ =?utf-8?B?M2Rjb3IrdEk1dWhFSlpSSUtEQjZQbkVCdjVZTHFQaGlFTkRDS0ZGSHhHYm9z?=
+ =?utf-8?B?eEhvUUNRLzFRQndKbU83T2YyR21vT3F4VVFXdkFqUjZCZzUxVXk2N1pUbTk1?=
+ =?utf-8?B?bzc2aGN5V1FaMWUyZlhydjcxcHM5MGowQUdBL2gycnB1WS9XTnVzQjNFNVhW?=
+ =?utf-8?B?bytJS2lmS09JT1d5S3J4djBRdjB1T0l1U1A5RVo1QWw0U2J5bjN0UDFNaWRH?=
+ =?utf-8?B?MHpVSWMrblVyNjZuMjF4ODJJQno2S3pwbE1SNW9Pc2VUelJtVURLNStoN3pp?=
+ =?utf-8?B?Uk9mVTJxSWNjcC9KSUx5QUE0aXF6Z0lGbzVVaWQyZ0xCQkZBREFERzNhdTlh?=
+ =?utf-8?B?K2xYWXZaRkw3MVJlR3dJZHdGSFBCT0dNb2FIdjF3QjRTRUsrZm9OVVVwZlhO?=
+ =?utf-8?B?SzBkQ2hMMjZjbGdmZHRjMjRMZzc4T05RbzdwZ0FZTjQrTVUxeVk2dnAzbytW?=
+ =?utf-8?B?V0Nxc2t1WDQrSk90UVpXejhTSW42dGM3cVB5WFdUSDZCMEZCcmVYZjJ2RlYz?=
+ =?utf-8?B?emdyeHQxMS84ZE4vQk5ud1FWaTgvUkJVb2VWVmlLM1paWUFZaW5qQTZkTDdY?=
+ =?utf-8?B?a0pRTWdhRWJCZk1DbWRqWVlRRklaMmdvcWlzWFJFZDlHa09HRU1wV3hzbHhX?=
+ =?utf-8?B?SmNadnJGanlmeHhrNERLOHkwaHB6NkJnYklLYzYxeS9MK2FaV25Tdk5wYWQv?=
+ =?utf-8?B?d0QyVm4xd0cwUi96NUtZUzd0eWovTmhFSDhWS1IwdGhKUFY0MmEwVGl3dEVI?=
+ =?utf-8?B?SFFUL0tuVWF3a0VFWGtaQ0NIN1kyU0wxZFNDN3dYbFFTWjRHajBrQytVeVlt?=
+ =?utf-8?Q?oP6epibK/qPKg?=
+MIME-Version: 1.0
+
+--0000000000002fd56b05b8169e59
+Content-Type: text/plain; charset="UTF-8"
+
+Mr. Mason,
+
+I have reviewed the video footage, however I have since switched computers.
+The State is re-sending the footage over so I can download and save the
+footage. I understand this is a frustrating process, but please know that I
+am working on your case even if I have no current updates for you. I had a
+cancellation, so I am free for a phone appointment on January 8th at 11am.
+Please let me know if you are available so we can review and discuss your
+case. If you have any questions that I can answer over email, I would be
+more than happy to do so.
+
+
+Thanks,
+Lauren Brooker
+
+On Wed, Dec 30, 2020 at 3:13 PM Lance Mason <lance@lancemason.com> wrote:
+
+> Lauren
+>
+> no that is not okay. it is me whose civil rights have been violated and
+> are being violated every time I have to report while they cannot produce
+> the discovery. they were able to email within an hour on the partial video
+> but here I am asking you for the fifth time probably if you've seen or have
+> the video.
+>
+> Get Outlook for Android <https://aka.ms/ghei36>
+> ------------------------------
+> *From:* Lauren Brooker <lauren.brooker@flpd2.com>
+> *Sent:* Wednesday, December 23, 2020 12:50:35 PM
+> *To:* Lance Mason <lance@lancemason.com>
+> *Subject:* Re: Lauren
+>
+> Good afternoon Mr. Mason,
+>
+> Let's set up an appointment for us to discuss your case after the
+> holidays. Your next court date is February 23, 2021. How does January 19th
+> at 11am work for a phone appointment? Please let me know.
+>
+>
+> Thanks and happy holidays,
+> Lauren Brooker
+>
+> On Tue, Dec 22, 2020 at 4:02 PM Lance Mason <lance@lancemason.com> wrote:
+>
+> I'd like to get what all has been done on my case. I still have not seen
+> the body cam video though I've asked for it since the beginning. I'm
+> thinking that I can take the case and put more hours into it since it's
+> pretty complex. I just need help on the procedure
+>
+> Get Outlook for Android <https://aka.ms/ghei36>
+>
+>
+>
+> --
+> Lauren Brooker
+> *Attorney at Law*
+> Office of the Public Defender
+> Second Judicial Circuit of Florida
+> (850) 606-1000
+> (850) 391-8569
+>
+
+
+-- 
+Lauren Brooker
+*Attorney at Law*
+Office of the Public Defender
+Second Judicial Circuit of Florida
+(850) 606-1000
+(850) 391-8569
+
+--0000000000002fd56b05b8169e59
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8"><d=
+iv dir=3D"ltr">Mr. Mason,<div><br></div><div>I have reviewed the video foot=
+age, however I have since switched computers. The State is re-sending the f=
+ootage over so I can download and save the footage. I understand this is a =
+frustrating process, but please know that I am working on your case even if=
+ I have no current updates for you. I had a cancellation, so I am free for =
+a phone appointment on January 8th at 11am. Please let me know if you are a=
+vailable so we can review and discuss your case. If you have&nbsp;any quest=
+ions that I can answer over email, I would be more than happy to do so.</di=
+v><div><br></div><div><br></div><div>Thanks,</div><div>Lauren Brooker</div>=
+</div><br><div class=3D"gmail_quote"><div dir=3D"ltr" class=3D"gmail_attr">=
+On Wed, Dec 30, 2020 at 3:13 PM Lance Mason &lt;<a href=3D"mailto:lance@lan=
+cemason.com" target=3D"_blank">lance@lancemason.com</a>&gt; wrote:<br></div=
+><blockquote class=3D"gmail_quote" style=3D"margin:0px 0px 0px 0.8ex;border=
+-left:1px solid rgb(204,204,204);padding-left:1ex">
+
+
+
+<div>
+<div>
+
+</div>
+<div style=3D"color:rgb(33,33,33);background-color:rgb(255,255,255);text-al=
+ign:left" dir=3D"auto">
+Lauren</div>
+<div style=3D"color:rgb(33,33,33);background-color:rgb(255,255,255);text-al=
+ign:left" dir=3D"auto">
+<br>
+</div>
+<div style=3D"color:rgb(33,33,33);background-color:rgb(255,255,255);text-al=
+ign:left" dir=3D"auto">
+no that is not okay. it is me whose civil rights have been violated and are=
+ being violated every time I have to report while they cannot produce the d=
+iscovery. they were able to email within an hour on the partial video but h=
+ere I am asking you for the fifth
+ time probably if you've seen or have the video.&nbsp;&nbsp;</div>
+<div id=3D"gmail-m_-7439362132811008961gmail-m_592066019104604856ms-outlook=
+-mobile-signature">
+<div><br>
+</div>
+Get <a href=3D"https://aka.ms/ghei36" target=3D"_blank">Outlook for Android=
+</a></div>
+<hr style=3D"display:inline-block;width:98%">
+<div id=3D"gmail-m_-7439362132811008961gmail-m_592066019104604856divRplyFwd=
+Msg" dir=3D"ltr"><font face=3D"Calibri, sans-serif" color=3D"#000000" style=
+=3D"font-size:11pt"><b>From:</b> Lauren Brooker &lt;<a href=3D"mailto:laure=
+n.brooker@flpd2.com" target=3D"_blank">lauren.brooker@flpd2.com</a>&gt;<br>
+<b>Sent:</b> Wednesday, December 23, 2020 12:50:35 PM<br>
+<b>To:</b> Lance Mason &lt;<a href=3D"mailto:lance@lancemason.com" target=
+=3D"_blank">lance@lancemason.com</a>&gt;<br>
+<b>Subject:</b> Re: Lauren</font>
+<div>&nbsp;</div>
+</div>
+<div>
+<div dir=3D"ltr">Good afternoon Mr. Mason,
+<div><br>
+</div>
+<div>Let's set up an appointment for us to discuss your case after the holi=
+days. Your next court date is February 23, 2021. How does January 19th at 1=
+1am work for a phone appointment? Please let me know.</div>
+<div><br>
+</div>
+<div><br>
+</div>
+<div>Thanks and happy holidays,</div>
+<div>Lauren Brooker</div>
+</div>
+<br>
+<div>
+<div dir=3D"ltr">On Tue, Dec 22, 2020 at 4:02 PM Lance Mason &lt;<a href=3D=
+"mailto:lance@lancemason.com" target=3D"_blank">lance@lancemason.com</a>&gt=
+; wrote:<br>
+</div>
+<blockquote style=3D"margin:0px 0px 0px 0.8ex;border-left:1px solid rgb(204=
+,204,204);padding-left:1ex">
+<div>
+<div dir=3D"auto" style=3D"color:rgb(33,33,33);background-color:rgb(255,255=
+,255);text-align:left">
+I'd like to get what all has been done on my case. I still have not seen th=
+e body cam video though I've asked for it since the beginning. I'm thinking=
+ that I can take the case and put more hours into it since it's pretty comp=
+lex. I just need help on the procedure</div>
+<div id=3D"gmail-m_-7439362132811008961gmail-m_592066019104604856x_gmail-m_=
+3939322564598279310gmail-m_1028080540730724160ms-outlook-mobile-signature">
+<div><br>
+</div>
+Get <a href=3D"https://aka.ms/ghei36" target=3D"_blank">Outlook for Android=
+</a></div>
+</div>
+</blockquote>
+</div>
+<br clear=3D"all">
+<div><br>
+</div>
+-- <br>
+<div dir=3D"ltr">
+<div dir=3D"ltr">
+<div dir=3D"ltr">
+<div dir=3D"ltr">
+<div dir=3D"ltr">
+<div>Lauren Brooker</div>
+<div><i>Attorney at Law</i></div>
+<div>Office of the Public Defender</div>
+<div>Second Judicial Circuit of Florida</div>
+<div>(850) 606-1000<br>
+</div>
+<div>(850) 391-8569<br>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+</blockquote></div><br clear=3D"all"><div><br></div>-- <br><div dir=3D"ltr"=
+><div dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><div>L=
+auren Brooker</div><div><i>Attorney at Law</i></div><div>Office of the Publ=
+ic Defender</div><div>Second Judicial Circuit of Florida</div><div>(850) 60=
+6-1000<br></div><div>(850) 391-8569<br></div></div></div></div></div></div>
+
+--0000000000002fd56b05b8169e59--
