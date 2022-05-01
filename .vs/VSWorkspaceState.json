@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\inbox",
+    "\\PythonFileManager"
   ],
-  "SelectedNode": "\\README.md",
+  "SelectedNode": "\\PythonFileManager",
   "PreviewInSolutionExplorer": false
 }
