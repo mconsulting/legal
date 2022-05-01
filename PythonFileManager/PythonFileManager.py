@@ -19,7 +19,7 @@ def inspect_files(folder_path):
 
 def move_or_copy_files(source,target):
     for f in files_to_copy:
-      #  new_file=shutil.move(source_path + "\\" + f,target_path)
+        new_file=shutil.move(source_path + "\\" + f,target_path)
         print(f)
 
 def get_list_of_files(dir_name,search_for='*'):
@@ -56,11 +56,8 @@ def get_list_of_files(dir_name,search_for='*'):
         
     return list_of_files
 
-dlist=get_list_of_files(target_path)
 
-file_dictionary={'file_name':dlist}
-
-
-df=pd.DataFrame(data=file_dictionary)
-print(df)
 move_or_copy_files(source_path,target_path)
+
+get_list_of_files(target_path)
+
