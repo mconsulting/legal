@@ -4,8 +4,10 @@ import shutil
 from datetime import datetime
 import glob
 import time
+from pandas.core.arrays.categorical import contains
 from pandas.io.pytables import IndexCol
 
+import urllib.parse
 
 # single function to initialize the state
 source_path=os.getcwd() + "\\inbox"
@@ -25,39 +27,47 @@ def move_or_copy_files(source,target):
 def get_list_of_files(dir_name,search_for='*'):
    
     execution_time=datetime.utcnow()
-    # Get list of all files only in the given directory
-    list_of_files = filter( os.path.isfile,
-                            glob.glob(dir_name) )
-    # Sort list of files based on last modification time in ascending order
-    list_of_files = sorted( list_of_files,
-                            key = os.path.getmtime)
-    # Iterate over sorted list of files and print file path 
-    # along with last modification time of file 
-
+    
     file_names=[]
     last_modifieds=[]
     file_sizes=[]
-
-    
-    for file_name in os.listdir(target_path):
+    urls=[]
+    absolute_url=r'https://github.com/mconsulting/legal/blob/main/files/'
+    for file_name in os.listdir(dir_name):
         last_modifieds.append(time.strftime(  '%Y-%m-%d_%H%M%S',
-                                    time.gmtime(os.path.getmtime(target_path + "\\" + file_name))) )
-        modified_time=os.path.getmtime(target_path + "\\" + file_name)
-        changed_time=os.path.getctime(target_path + "\\" + file_name)
-        accessed_time=os.path.getatime(target_path + "\\" + file_name)
-        file_sizes.append(os.path.getsize(target_path + "\\" + file_name))
+                                    time.gmtime(os.path.getmtime(dir_name + "\\" + file_name))) )
+        modified_time=os.path.getmtime(dir_name + "\\" + file_name)
+        changed_time=os.path.getctime(dir_name + "\\" + file_name)
+        accessed_time=os.path.getatime(dir_name + "\\" + file_name)
+        file_sizes.append(os.path.getsize(dir_name + "\\" + file_name))
         file_names.append(file_name)
-    
-    file_info={'file_name':file_names,'last_modified':last_modifieds,'file_size':file_sizes}
+        urls.append(absolute_url + urllib.parse.quote(file_name))
+    file_info={'dir_name': dir_name,'file_name':file_names,'last_modified':last_modifieds,'file_size':file_sizes,'url':urls}
 
     df=pd.DataFrame(file_info)
-    df.to_csv('resources.csv')
+    df.to_csv(dir_name + '.csv')
     print(df)
         
-    return list_of_files
+    return df
 
+def add_links(list_of_files):
+    # This is a dataframe not a list.  
+    # That will enable 
+    df=list_of_files
+    print
+    f=open("links.md","w")
+    for i in range(len(df)):
+        link=df.iloc[i]["url"]
+        fn=df.iloc[i]["file_name"]
+        newline=str.format('[{}]({})',fn,link)
+        f.write(newline +'\n')
+      
+    f.close()
+    print("complete")
 
 move_or_copy_files(source_path,target_path)
 
-get_list_of_files(target_path)
+files_to_link= get_list_of_files(target_path)
+
+add_links(files_to_link)
 
