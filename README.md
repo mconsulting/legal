@@ -6,6 +6,7 @@ To provide a central repository of evidence related to legal cases in which I ha
 
 [Central repository](files)
 
+[Just the links][links.md]
 [inbox](inbox)
 
 

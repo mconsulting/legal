@@ -60,7 +60,7 @@ def add_links(list_of_files):
         link=df.iloc[i]["url"]
         fn=df.iloc[i]["file_name"]
         newline=str.format('[{}]({})',fn,link)
-        f.write(newline +'\n')
+        f.write(newline)
         f.write('\n')
     f.close()
     print("complete")
