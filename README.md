@@ -12,6 +12,8 @@ To provide a central repository of evidence related to legal cases in which I ha
 
 [issues](https://github.com/mconsulting/legal/issues)
 
+[PythonFileManager](PythonFileManager/PythonFileManager.py)
+
 ### Evidence of fraudulent misrepresentation by [Robert Sale](https://www.floridabar.org/mybarprofile/44725)
 [2020-02-21_1456_Email to Jay and Robert.pdf](https://github.com/mconsulting/legal/blob/main/files/2020-02-21_1456_Email%20to%20Jay%20and%20Robert.pdf)
 

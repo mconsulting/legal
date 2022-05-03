@@ -63,7 +63,7 @@ def add_links(list_of_files):
         f.write(newline)
         f.write('\n')
     f.close()
-    print("complete")
+
 
 move_or_copy_files(source_path,target_path)
 
