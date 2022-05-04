@@ -35,9 +35,9 @@ def get_list_of_files(dir_name,search_for='*'):
     urls=[]
     absolute_url=r'https://github.com/mconsulting/legal/blob/main/files/'
     for file_name in os.listdir(dir_name):
-        last_modifieds.append(time.strftime(  '%Y-%m-%d_%H%M%S',
+        last_modifieds.append(time.strftime(  '%Y-%m-%d %H:%M:%S',
                                     time.gmtime(os.path.getmtime(dir_name + "\\" + file_name))) )
-        last_accessed.append(time.strftime(  '%Y-%m-%d_%H%M%S',
+        last_accessed.append(time.strftime(  '%Y-%m-%d %H:%M:%S',
                                     time.gmtime (os.path.getatime(dir_name + "\\" + file_name))) )
         modified_time=os.path.getmtime(dir_name + "\\" + file_name)
         changed_time=os.path.getctime(dir_name + "\\" + file_name)
@@ -68,9 +68,10 @@ def add_links(list_of_files):
     for i in range(1,len(df)):
         link=df.iloc[i]["url"]
         fn=df.iloc[i]["file_name"]
-        newline=str.format('[{}]({})',str(i).zfill(3) + "-" + fn,link)
-        f.write(newline)
+        newline=str.format('[{}]({})',fn,link)
+        f.write(newline +'\n')
         f.write('\n')
+       
     f.close()
 
 
