@@ -59,10 +59,16 @@ def add_links(list_of_files):
     df=list_of_files
     print
     f=open("links.md","w")
-    for i in range(len(df)):
+    i=0
+    f.write("## Links")
+    f.write('\n\n')
+
+    f.write(str(datetime.utcnow()))
+    f.write('\n\n')
+    for i in range(1,len(df)):
         link=df.iloc[i]["url"]
         fn=df.iloc[i]["file_name"]
-        newline=str.format('[{}]({})',fn,link)
+        newline=str.format('[{}]({})',str(i).zfill(3) + "-" + fn,link)
         f.write(newline)
         f.write('\n')
     f.close()
@@ -73,4 +79,5 @@ move_or_copy_files(source_path,target_path)
 files_to_link= get_list_of_files(target_path)
 
 add_links(files_to_link)
+
 
