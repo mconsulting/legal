@@ -38,14 +38,14 @@ def get_list_of_files(dir_name,search_for='*'):
         last_modifieds.append(time.strftime(  '%Y-%m-%d_%H%M%S',
                                     time.gmtime(os.path.getmtime(dir_name + "\\" + file_name))) )
         last_accessed.append(time.strftime(  '%Y-%m-%d_%H%M%S',
-                                    time.getatime (os.path.getatime(dir_name + "\\" + file_name))) )
+                                    time.gmtime (os.path.getatime(dir_name + "\\" + file_name))) )
         modified_time=os.path.getmtime(dir_name + "\\" + file_name)
         changed_time=os.path.getctime(dir_name + "\\" + file_name)
         accessed_time=os.path.getatime(dir_name + "\\" + file_name)
         file_sizes.append(os.path.getsize(dir_name + "\\" + file_name))
         file_names.append(file_name)
         urls.append(absolute_url + urllib.parse.quote(file_name))
-    file_info={'dir_name': dir_name,'file_name':file_names,'last_modified':last_modifieds,'file_size':file_sizes,'url':urls}
+    file_info={'file_name':file_names,'last_modified':last_modifieds,'last_accessed':last_accessed,'file_size':file_sizes,'url':urls}
 
     df=pd.DataFrame(file_info)
     df.to_csv(dir_name + '.csv')
