@@ -30,12 +30,15 @@ def get_list_of_files(dir_name,search_for='*'):
     
     file_names=[]
     last_modifieds=[]
+    last_accessed=[]
     file_sizes=[]
     urls=[]
     absolute_url=r'https://github.com/mconsulting/legal/blob/main/files/'
     for file_name in os.listdir(dir_name):
         last_modifieds.append(time.strftime(  '%Y-%m-%d_%H%M%S',
                                     time.gmtime(os.path.getmtime(dir_name + "\\" + file_name))) )
+        last_accessed.append(time.strftime(  '%Y-%m-%d_%H%M%S',
+                                    time.getatime (os.path.getatime(dir_name + "\\" + file_name))) )
         modified_time=os.path.getmtime(dir_name + "\\" + file_name)
         changed_time=os.path.getctime(dir_name + "\\" + file_name)
         accessed_time=os.path.getatime(dir_name + "\\" + file_name)
