@@ -2,4 +2,12 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/CSFileManagerClient
+/CSFileManager/obj/Debug/net6.0
+/CSFileManagerClient/obj
+/CSFileManager/obj
+/CSharpFileManager/obj/Debug
+/CSFileManagerClient/.vs/CSFileManager/v17
+/CSharpFileManager/obj/Release
+/CSFileManager/.vs/CSFileManager/v17
+/CSFileManagerClient/bin/Debug
+/CSharpFileManager/bin/Debug
