@@ -12,25 +12,27 @@ namespace CSharpFileManager
 
         public Exec()
         {
+            
+        }
 
-            var evt = new Event()
-        };
-
-        public int Execute()
+        public int Execute(string source=@"C:\\Users\\mason\\Source\\Repos\\legal\\")
         {
             var i=0;
-            string sourceDirectory = @"C:\current";
-            string archiveDirectory = @"C:\archive";
+            source=@"C:\Users\mason\Source\Repos\legal\";
+            string sourceDirectory = Path.Combine(source, "inbox");
+            string archiveDirectory =Path.Combine(source, "files");
 
             try
             {
-                var txtFiles = Directory.EnumerateFiles(sourceDirectory, "*.txt", SearchOption.AllDirectories);
+                var txtFiles = Directory.GetFiles(archiveDirectory, "*", SearchOption.AllDirectories);
 
                 foreach (string currentFile in txtFiles)
                 {
                     i++;
-                    string fileName = currentFile.Substring(sourceDirectory.Length + 1);
-                    Directory.Move(currentFile, Path.Combine(archiveDirectory, fileName));
+                    string date_string = Path.GetFileName(currentFile).Substring(0,15).Replace("_"," ").Insert(13,":");
+                    DateTime dt=DateTime.Parse(date_string);
+                  //  Directory.Move(currentFile, Path.Combine(archiveDirectory, fileName));
+                    Console.WriteLine(dt.ToString());
                 }
             }
             catch (Exception e)
