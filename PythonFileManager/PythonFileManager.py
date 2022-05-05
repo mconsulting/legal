@@ -10,8 +10,8 @@ from pandas.io.pytables import IndexCol
 import urllib.parse
 
 # single function to initialize the state
-source_path=os.getcwd() + "\\inbox"
-target_path=os.getcwd() + "\\files"
+source_path="../inbox"
+target_path="../files"
 files_to_copy=os.listdir(source_path)
 
 def inspect_files(folder_path):
@@ -48,7 +48,7 @@ def get_list_of_files(dir_name,search_for='*'):
     file_info={'file_name':file_names,'last_modified':last_modifieds,'last_accessed':last_accessed,'file_size':file_sizes,'url':urls}
 
     df=pd.DataFrame(file_info)
-    df.to_csv(dir_name + '.csv')
+    df.to_csv('files.csv')
     print(df)
         
     return df

@@ -1,0 +1,71 @@
+INFO:Number of emails in directory = 0
+INFO:Number of emails in directory = 24
+INFO:Number of emails in directory = 24
+INFO:2020-11-06_1346_Lance_Mason_to_dallas.massaflpd2_lauren.brookerflpd2.com.msg
+INFO:Number of emails in directory = 24
+INFO:2020-11-06_1346_Lance_Mason_to_dallas.massaflpd2_lauren.brookerflpd2.com.msg
+INFO:Number of emails in directory = 24
+INFO:2020-11-06_1346_Lance_Mason_to_dallas.massaflpd2_lauren.brookerflpd2.com.msg
+INFO:Number of emails in directory = 24
+INFO:2020-11-06_1346_Lance_Mason_to_dallas.massaflpd2_lauren.brookerflpd2.com.msg
+INFO:Number of emails in directory = 24
+INFO:2020-11-06_1346_Lance_Mason_to_dallas.massaflpd2_lauren.brookerflpd2.com.msg
+INFO:2020-11-09_1137_Lauren_Brooker_to_Lance_Mason_Re_Lance_Mason.msg
+INFO:Number of emails in directory = 24
+INFO:2020-11-06_1346_Lance_Mason_to_dallas.massaflpd2_lauren.brookerflpd2.com.msg
+INFO:Number of emails in directory = 24
+INFO:2020-11-06_1346_Lance_Mason_to_dallas.massaflpd2_lauren.brookerflpd2.com.msg
+INFO:Number of emails in directory = 24
+INFO:2020-11-06_1346_Lance_Mason_to_dallas.massaflpd2_lauren.brookerflpd2.com.msg
+INFO:Number of emails in directory = 24
+INFO:2020-11-06_1346_Lance_Mason_to_dallas.massaflpd2_lauren.brookerflpd2.com.msg
+INFO:2020-11-09_1137_Lauren_Brooker_to_Lance_Mason_Re_Lance_Mason.msg
+INFO:2020-11-18_1803_Lance_Mason_to_Lauren_Brooker_Email_from_FSU_COB.msg
+INFO:2020-11-27_1617_Lance_Mason_to_Lauren_Brooker_RequestForDiscovery.msg
+INFO:2020-11-30_0934_Lauren_Brooker_to_Lance_Mason_NoticeOfSpecialhearing.msg
+INFO:2020-11-30_2039_Lance_Mason_to_Lauren_Brooker_Fast_Slow.msg
+INFO:2020-12-04_1531_Lance_Mason_to_Lauren_Brooker_Gift_Video_Assessment.msg
+INFO:2020-12-04_1855_Lance_Mason_to_Lauren_Brooker_Alumnus.msg
+INFO:2020-12-04_1855_Lance_Mason_to_Lauren_Brooker_Assault.msg
+INFO:2020-12-04_1855_Lance_Mason_to_Lauren_Brooker_Schedule_call.msg
+INFO:2020-12-07_1631_Lauren_Brooker_to_Lance_Mason_Received_videos.msg
+INFO:2020-12-10_1456_Lance_Mason_to_Lauren_Brooker_ready_to_go.msg
+INFO:2020-12-11_0830_Lauren_Brooker_to_Lance_Mason_continuing_no_response.msg
+INFO:2020-12-11_0910_Lance_Mason_to_Lauren_Brooker_FBI_conspiracy_against_rights.msg
+INFO:2020-12-22_1502_Lance_Mason_to_Lauren_Brooker_Lauren.msg
+INFO:2020-12-23_1250_Lauren_Brooker_to_Lance_Mason_Re_Lauren.msg
+INFO:2020-12-28_1103_Lauren_Brooker_to_Lance_Mason_Re_Lauren.msg
+INFO:2020-12-30_1413_Lance_Mason_to_Lauren_Brooker_Re_Lauren.msg
+INFO:2020-12-30_1416_Lance_Mason_to_Lauren_Brooker_Re_Lauren.msg
+INFO:2021-01-04_1142_Lauren_Brooker_to_Lance_Mason_Re_Lauren.msg
+INFO:2021-01-05_1032_Lance_Mason_to_prf01aol.com_Lauren_Brooker_Phone_and_guidance_on_withdrawing_from_a_conspiracy.msg
+INFO:2021-01-05_1049_Lauren_Brooker_to_Lance_Mason_Re_Phone_and_guidance_on_withdrawing_from_a_conspiracy.msg
+INFO:2021-01-12_0443_Lance_Mason_to_Lance_Mason_Fwd_change_of_email_address_and_attorney.msg
+INFO:2021-02-09_Abandonment_of_client_after_discovery_request.msg
+INFO:Number of emails in directory = 24
+INFO:2020-11-06_1346_Lance_Mason_to_dallas.massaflpd2_lauren.brookerflpd2.com.msg
+INFO:Number of emails in directory = 24
+INFO:2020-11-06_1346_Lance_Mason_to_dallas.massaflpd2_lauren.brookerflpd2.com.msg
+INFO:2020-11-09_1137_Lauren_Brooker_to_Lance_Mason_Re_Lance_Mason.msg
+INFO:2020-11-18_1803_Lance_Mason_to_Lauren_Brooker_Email_from_FSU_COB.msg
+INFO:2020-11-27_1617_Lance_Mason_to_Lauren_Brooker_RequestForDiscovery.msg
+INFO:2020-11-30_0934_Lauren_Brooker_to_Lance_Mason_NoticeOfSpecialhearing.msg
+INFO:2020-11-30_2039_Lance_Mason_to_Lauren_Brooker_Fast_Slow.msg
+INFO:2020-12-04_1531_Lance_Mason_to_Lauren_Brooker_Gift_Video_Assessment.msg
+INFO:2020-12-04_1855_Lance_Mason_to_Lauren_Brooker_Alumnus.msg
+INFO:2020-12-04_1855_Lance_Mason_to_Lauren_Brooker_Assault.msg
+INFO:2020-12-04_1855_Lance_Mason_to_Lauren_Brooker_Schedule_call.msg
+INFO:2020-12-07_1631_Lauren_Brooker_to_Lance_Mason_Received_videos.msg
+INFO:2020-12-10_1456_Lance_Mason_to_Lauren_Brooker_ready_to_go.msg
+INFO:2020-12-11_0830_Lauren_Brooker_to_Lance_Mason_continuing_no_response.msg
+INFO:2020-12-11_0910_Lance_Mason_to_Lauren_Brooker_FBI_conspiracy_against_rights.msg
+INFO:2020-12-22_1502_Lance_Mason_to_Lauren_Brooker_Lauren.msg
+INFO:2020-12-23_1250_Lauren_Brooker_to_Lance_Mason_Re_Lauren.msg
+INFO:2020-12-28_1103_Lauren_Brooker_to_Lance_Mason_Re_Lauren.msg
+INFO:2020-12-30_1413_Lance_Mason_to_Lauren_Brooker_Re_Lauren.msg
+INFO:2020-12-30_1416_Lance_Mason_to_Lauren_Brooker_Re_Lauren.msg
+INFO:2021-01-04_1142_Lauren_Brooker_to_Lance_Mason_Re_Lauren.msg
+INFO:2021-01-05_1032_Lance_Mason_to_prf01aol.com_Lauren_Brooker_Phone_and_guidance_on_withdrawing_from_a_conspiracy.msg
+INFO:2021-01-05_1049_Lauren_Brooker_to_Lance_Mason_Re_Phone_and_guidance_on_withdrawing_from_a_conspiracy.msg
+INFO:2021-01-12_0443_Lance_Mason_to_Lance_Mason_Fwd_change_of_email_address_and_attorney.msg
+INFO:2021-02-09_Abandonment_of_client_after_discovery_request.msg
