@@ -1,8 +1,11 @@
 {
   "ExpandedNodes": [
     "",
+    "\\CSFileManagerClient",
+    "\\CSFileManagerClient\\Properties",
     "\\inbox",
     "\\PythonFileManager"
   ],
+  "SelectedNode": "\\CSFileManagerClient\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

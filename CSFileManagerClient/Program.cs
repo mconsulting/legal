@@ -10,6 +10,8 @@ namespace CSFileManagerClient
     {
         static void Main(string[] args)
         {
+            var exec = new CSharpFileManager.Exec();
+
         }
     }
 }
