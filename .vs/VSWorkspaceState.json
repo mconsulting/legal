@@ -3,9 +3,10 @@
     "",
     "\\CSFileManagerClient",
     "\\CSFileManagerClient\\Properties",
-    "\\inbox",
-    "\\PythonFileManager"
+    "\\CSharpFileManager",
+    "\\CSharpFileManager\\obj",
+    "\\inbox"
   ],
-  "SelectedNode": "\\CSFileManagerClient\\Program.cs",
+  "SelectedNode": "\\CSharpFileManager",
   "PreviewInSolutionExplorer": false
 }
