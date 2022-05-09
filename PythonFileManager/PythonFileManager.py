@@ -8,16 +8,16 @@ from pandas.core.arrays.categorical import contains
 from pandas.io.pytables import IndexCol
 
 import urllib.parse
-
+root=os.environ['HomePath'] + "\\source\\repos\\legal"
 # single function to initialize the state
-source_path=os.getcwd() + "\\inbox"
-target_path=os.getcwd() + "\\files"
+source_path=root + "\\inbox"
+target_path=root + "\\files"
 files_to_copy=os.listdir(source_path)
 
 def inspect_files(folder_path):
     files=listdir(folder_path)
     for f in files:
-        print(pathf)
+        print(path)
 
 def move_or_copy_files(source,target):
     for f in files_to_copy:
@@ -58,7 +58,7 @@ def add_links(list_of_files):
     # That will enable 
     df=list_of_files
     print
-    f=open("links.md","w")
+    f=open(root + "\\links.md","w")
     i=0
     f.write("## Links")
     f.write('\n\n')
