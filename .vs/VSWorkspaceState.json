@@ -1,12 +1,12 @@
 {
   "ExpandedNodes": [
     "",
+    "\\AuditManagerCommon",
     "\\CSFileManagerClient",
     "\\CSFileManagerClient\\Properties",
-    "\\CSharpFileManager",
-    "\\CSharpFileManager\\obj",
+    "\\files",
     "\\inbox"
   ],
-  "SelectedNode": "\\CSharpFileManager",
+  "SelectedNode": "\\files\\2020-12-04_1531_Lance_Mason_to_Lauren_Brooker_Gift_Video_Assessment.txt",
   "PreviewInSolutionExplorer": false
 }

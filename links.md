@@ -1,12 +1,12 @@
 ## Links
 
-2022-05-07 05:22:18.403802
+2022-05-23 15:32:27.460226
 
 [2020-02-21_1456_Email to Jay and Robert.pdf](https://github.com/mconsulting/legal/blob/main/files/2020-02-21_1456_Email%20to%20Jay%20and%20Robert.pdf)
 
 [2020-02-27_1337_Email to Robert and Jay.pdf](https://github.com/mconsulting/legal/blob/main/files/2020-02-27_1337_Email%20to%20Robert%20and%20Jay.pdf)
 
-[2020-03-17_Pat_Futrell_Solich.png](https://github.com/mconsulting/legal/blob/main/files/2020-03-17_Pat_Futrell_Solich.png)
+[2020-03-17_1300_Pat_Futrell_Solich.png](https://github.com/mconsulting/legal/blob/main/files/2020-03-17_1300_Pat_Futrell_Solich.png)
 
 [2020-10-03_0630_PCPD1.mp4](https://github.com/mconsulting/legal/blob/main/files/2020-10-03_0630_PCPD1.mp4)
 
@@ -37,6 +37,8 @@
 [2020-11-02_0842_Pallusek_Voicemail_8506441234.mp3](https://github.com/mconsulting/legal/blob/main/files/2020-11-02_0842_Pallusek_Voicemail_8506441234.mp3)
 
 [2020-11-02_1018_Collier_18506457390.mp3](https://github.com/mconsulting/legal/blob/main/files/2020-11-02_1018_Collier_18506457390.mp3)
+
+[2020-11-02_1018_Collier_18506457390.txt](https://github.com/mconsulting/legal/blob/main/files/2020-11-02_1018_Collier_18506457390.txt)
 
 [2020-11-02_1125_Collier_Pretrial_violation_narrative.png](https://github.com/mconsulting/legal/blob/main/files/2020-11-02_1125_Collier_Pretrial_violation_narrative.png)
 
@@ -98,53 +100,31 @@
 
 [2020-12-04_1855_Lance_Mason_to_Lauren_Brooker_Schedule_call.txt](https://github.com/mconsulting/legal/blob/main/files/2020-12-04_1855_Lance_Mason_to_Lauren_Brooker_Schedule_call.txt)
 
-[2020-12-07_1631_Lauren_Brooker_to_Lance_Mason_Received_videos.msg](https://github.com/mconsulting/legal/blob/main/files/2020-12-07_1631_Lauren_Brooker_to_Lance_Mason_Received_videos.msg)
-
 [2020-12-07_1631_Lauren_Brooker_to_Lance_Mason_Received_videos.txt](https://github.com/mconsulting/legal/blob/main/files/2020-12-07_1631_Lauren_Brooker_to_Lance_Mason_Received_videos.txt)
 
-[2020-12-10_1456_Lance_Mason_to_Lauren_Brooker_ready_to_go.msg](https://github.com/mconsulting/legal/blob/main/files/2020-12-10_1456_Lance_Mason_to_Lauren_Brooker_ready_to_go.msg)
+[2020-12-08 tuesday evening update.pdf](https://github.com/mconsulting/legal/blob/main/files/2020-12-08%20tuesday%20evening%20update.pdf)
 
 [2020-12-10_1456_Lance_Mason_to_Lauren_Brooker_ready_to_go.txt](https://github.com/mconsulting/legal/blob/main/files/2020-12-10_1456_Lance_Mason_to_Lauren_Brooker_ready_to_go.txt)
 
-[2020-12-11_0830_Lauren_Brooker_to_Lance_Mason_continuing_no_response.msg](https://github.com/mconsulting/legal/blob/main/files/2020-12-11_0830_Lauren_Brooker_to_Lance_Mason_continuing_no_response.msg)
-
 [2020-12-11_0830_Lauren_Brooker_to_Lance_Mason_continuing_no_response.txt](https://github.com/mconsulting/legal/blob/main/files/2020-12-11_0830_Lauren_Brooker_to_Lance_Mason_continuing_no_response.txt)
-
-[2020-12-11_0910_Lance_Mason_to_Lauren_Brooker_FBI_conspiracy_against_rights.msg](https://github.com/mconsulting/legal/blob/main/files/2020-12-11_0910_Lance_Mason_to_Lauren_Brooker_FBI_conspiracy_against_rights.msg)
 
 [2020-12-11_0910_Lance_Mason_to_Lauren_Brooker_FBI_conspiracy_against_rights.txt](https://github.com/mconsulting/legal/blob/main/files/2020-12-11_0910_Lance_Mason_to_Lauren_Brooker_FBI_conspiracy_against_rights.txt)
 
-[2020-12-22_1502_Lance_Mason_to_Lauren_Brooker_Lauren.msg](https://github.com/mconsulting/legal/blob/main/files/2020-12-22_1502_Lance_Mason_to_Lauren_Brooker_Lauren.msg)
-
 [2020-12-22_1502_Lance_Mason_to_Lauren_Brooker_Lauren.txt](https://github.com/mconsulting/legal/blob/main/files/2020-12-22_1502_Lance_Mason_to_Lauren_Brooker_Lauren.txt)
-
-[2020-12-23_1250_Lauren_Brooker_to_Lance_Mason_Re_Lauren.msg](https://github.com/mconsulting/legal/blob/main/files/2020-12-23_1250_Lauren_Brooker_to_Lance_Mason_Re_Lauren.msg)
 
 [2020-12-23_1250_Lauren_Brooker_to_Lance_Mason_Re_Lauren.txt](https://github.com/mconsulting/legal/blob/main/files/2020-12-23_1250_Lauren_Brooker_to_Lance_Mason_Re_Lauren.txt)
 
-[2020-12-28_1103_Lauren_Brooker_to_Lance_Mason_Re_Lauren.msg](https://github.com/mconsulting/legal/blob/main/files/2020-12-28_1103_Lauren_Brooker_to_Lance_Mason_Re_Lauren.msg)
-
 [2020-12-28_1103_Lauren_Brooker_to_Lance_Mason_Re_Lauren.txt](https://github.com/mconsulting/legal/blob/main/files/2020-12-28_1103_Lauren_Brooker_to_Lance_Mason_Re_Lauren.txt)
-
-[2020-12-30_1413_Lance_Mason_to_Lauren_Brooker_Re_Lauren.msg](https://github.com/mconsulting/legal/blob/main/files/2020-12-30_1413_Lance_Mason_to_Lauren_Brooker_Re_Lauren.msg)
 
 [2020-12-30_1413_Lance_Mason_to_Lauren_Brooker_Re_Lauren.txt](https://github.com/mconsulting/legal/blob/main/files/2020-12-30_1413_Lance_Mason_to_Lauren_Brooker_Re_Lauren.txt)
 
-[2020-12-30_1416_Lance_Mason_to_Lauren_Brooker_Re_Lauren.msg](https://github.com/mconsulting/legal/blob/main/files/2020-12-30_1416_Lance_Mason_to_Lauren_Brooker_Re_Lauren.msg)
-
 [2020-12-30_1416_Lance_Mason_to_Lauren_Brooker_Re_Lauren.txt](https://github.com/mconsulting/legal/blob/main/files/2020-12-30_1416_Lance_Mason_to_Lauren_Brooker_Re_Lauren.txt)
-
-[2021-01-04_1142_Lauren_Brooker_to_Lance_Mason_Re_Lauren.msg](https://github.com/mconsulting/legal/blob/main/files/2021-01-04_1142_Lauren_Brooker_to_Lance_Mason_Re_Lauren.msg)
 
 [2021-01-04_1142_Lauren_Brooker_to_Lance_Mason_Re_Lauren.txt](https://github.com/mconsulting/legal/blob/main/files/2021-01-04_1142_Lauren_Brooker_to_Lance_Mason_Re_Lauren.txt)
 
 [2021-01-04_1142_state_resending_bodycam.png](https://github.com/mconsulting/legal/blob/main/files/2021-01-04_1142_state_resending_bodycam.png)
 
-[2021-01-05_1032_Lance_Mason_to_prf01aol.com_Lauren_Brooker_Phone_and_guidance_on_withdrawing_from_a_conspiracy.msg](https://github.com/mconsulting/legal/blob/main/files/2021-01-05_1032_Lance_Mason_to_prf01aol.com_Lauren_Brooker_Phone_and_guidance_on_withdrawing_from_a_conspiracy.msg)
-
 [2021-01-05_1032_Lance_Mason_to_prf01aol.com_Lauren_Brooker_Phone_and_guidance_on_withdrawing_from_a_conspiracy.txt](https://github.com/mconsulting/legal/blob/main/files/2021-01-05_1032_Lance_Mason_to_prf01aol.com_Lauren_Brooker_Phone_and_guidance_on_withdrawing_from_a_conspiracy.txt)
-
-[2021-01-05_1049_Lauren_Brooker_to_Lance_Mason_Re_Phone_and_guidance_on_withdrawing_from_a_conspiracy.msg](https://github.com/mconsulting/legal/blob/main/files/2021-01-05_1049_Lauren_Brooker_to_Lance_Mason_Re_Phone_and_guidance_on_withdrawing_from_a_conspiracy.msg)
 
 [2021-01-05_1049_Lauren_Brooker_to_Lance_Mason_Re_Phone_and_guidance_on_withdrawing_from_a_conspiracy.txt](https://github.com/mconsulting/legal/blob/main/files/2021-01-05_1049_Lauren_Brooker_to_Lance_Mason_Re_Phone_and_guidance_on_withdrawing_from_a_conspiracy.txt)
 
@@ -184,6 +164,8 @@
 
 [2022-01-03_0000_23-5-40-67_Summons.pdf](https://github.com/mconsulting/legal/blob/main/files/2022-01-03_0000_23-5-40-67_Summons.pdf)
 
+[2022-02-03_Motion_for_conflict_counsel.png](https://github.com/mconsulting/legal/blob/main/files/2022-02-03_Motion_for_conflict_counsel.png)
+
 [2022-02-18_New_discovery_2010-0044.pdf](https://github.com/mconsulting/legal/blob/main/files/2022-02-18_New_discovery_2010-0044.pdf)
 
 [2022-02-18_New_discovery_2010-0052.pdf](https://github.com/mconsulting/legal/blob/main/files/2022-02-18_New_discovery_2010-0052.pdf)
@@ -192,13 +174,11 @@
 
 [2022-02-18_New_discovery_CapturePerfect3.1 Scan to Print.pdf](https://github.com/mconsulting/legal/blob/main/files/2022-02-18_New_discovery_CapturePerfect3.1%20Scan%20to%20Print.pdf)
 
-[2022-04-05_0842_UPDATE FW_ FSUPD Case 2010-0044.eml](https://github.com/mconsulting/legal/blob/main/files/2022-04-05_0842_UPDATE%20FW_%20FSUPD%20Case%202010-0044.eml)
-
 [2022-04-19 Senich.png](https://github.com/mconsulting/legal/blob/main/files/2022-04-19%20Senich.png)
+
+[2022-04-27__0900_Gmail.-.CAD.sheet.request.pdf](https://github.com/mconsulting/legal/blob/main/files/2022-04-27__0900_Gmail.-.CAD.sheet.request.pdf)
 
 [flushing-out-the-money-launderers-vf.pdf](https://github.com/mconsulting/legal/blob/main/files/flushing-out-the-money-launderers-vf.pdf)
 
-[FW_ E-Service of Discovery Attachments in State of Florida vs. Mason, Lance P., Clerk # 20MM01732.eml](https://github.com/mconsulting/legal/blob/main/files/FW_%20E-Service%20of%20Discovery%20Attachments%20in%20State%20of%20Florida%20vs.%20Mason%2C%20Lance%20P.%2C%20Clerk%20%23%2020MM01732.eml)
-
-[Parties.md](https://github.com/mconsulting/legal/blob/main/files/Parties.md)
+[links.md](https://github.com/mconsulting/legal/blob/main/files/links.md)
 

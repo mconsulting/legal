@@ -48,7 +48,7 @@ def get_list_of_files(dir_name,search_for='*'):
     file_info={'file_name':file_names,'last_modified':last_modifieds,'last_accessed':last_accessed,'file_size':file_sizes,'url':urls}
 
     df=pd.DataFrame(file_info)
-    df.to_csv(os.getcwd() + '\\files.csv')
+    df.to_csv(root + '\\files.csv')
     print(df)
         
     return df

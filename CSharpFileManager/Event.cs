@@ -9,4 +9,6 @@ namespace CSharpFileManager
     public class Event
     {
     }
+
+    public 
 }
