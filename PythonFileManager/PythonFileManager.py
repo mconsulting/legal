@@ -11,6 +11,7 @@ import urllib.parse
 root=os.environ['HomePath'] + "\\source\\repos\\legal"
 # single function to initialize the state
 source_path=root + "\\inbox"
+
 target_path=root + "\\files"
 files_to_copy=os.listdir(source_path)
 
