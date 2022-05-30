@@ -1,5 +1,9 @@
 # Mason Prepaid Legal
 
+## Latest news
+
+Three additional weeks of non-response by @Patti Wilmer at records
+
 ## Purpose
 To provide a central repository of evidence related to legal cases in which I have an interest.  Both effectiveness and efficiency are vastly improved by information sharing between the stakeholders.
 

@@ -1,6 +1,8 @@
 ## Links
 
-2022-05-24 18:13:38.966776
+2022-05-30 12:35:40.705607
+
+[2016-05-17_HighPressureStack.csv](https://github.com/mconsulting/legal/blob/main/files/2016-05-17_HighPressureStack.csv)
 
 [2020-02-21_1456_Email to Jay and Robert.pdf](https://github.com/mconsulting/legal/blob/main/files/2020-02-21_1456_Email%20to%20Jay%20and%20Robert.pdf)
 
@@ -46,11 +48,7 @@
 
 [2020-11-02_1414_Collier_email_to_Gaskins.png](https://github.com/mconsulting/legal/blob/main/files/2020-11-02_1414_Collier_email_to_Gaskins.png)
 
-[2020-11-06_1346_Lance_Mason_to_dallas.massaflpd2_lauren.brookerflpd2.com.msg](https://github.com/mconsulting/legal/blob/main/files/2020-11-06_1346_Lance_Mason_to_dallas.massaflpd2_lauren.brookerflpd2.com.msg)
-
 [2020-11-06_1346_Lance_Mason_to_dallas.massaflpd2_lauren.brookerflpd2.com.txt](https://github.com/mconsulting/legal/blob/main/files/2020-11-06_1346_Lance_Mason_to_dallas.massaflpd2_lauren.brookerflpd2.com.txt)
-
-[2020-11-09_1137_Lauren_Brooker_to_Lance_Mason_Re_Lance_Mason.msg](https://github.com/mconsulting/legal/blob/main/files/2020-11-09_1137_Lauren_Brooker_to_Lance_Mason_Re_Lance_Mason.msg)
 
 [2020-11-09_1137_Lauren_Brooker_to_Lance_Mason_Re_Lance_Mason.txt](https://github.com/mconsulting/legal/blob/main/files/2020-11-09_1137_Lauren_Brooker_to_Lance_Mason_Re_Lance_Mason.txt)
 
@@ -66,37 +64,21 @@
 
 [2020-11-10_0839_Information for trespass on property after warning.pdf.url](https://github.com/mconsulting/legal/blob/main/files/2020-11-10_0839_Information%20for%20trespass%20on%20property%20after%20warning.pdf.url)
 
-[2020-11-18_1803_Lance_Mason_to_Lauren_Brooker_Email_from_FSU_COB.msg](https://github.com/mconsulting/legal/blob/main/files/2020-11-18_1803_Lance_Mason_to_Lauren_Brooker_Email_from_FSU_COB.msg)
-
 [2020-11-18_1803_Lance_Mason_to_Lauren_Brooker_Email_from_FSU_COB.png](https://github.com/mconsulting/legal/blob/main/files/2020-11-18_1803_Lance_Mason_to_Lauren_Brooker_Email_from_FSU_COB.png)
 
 [2020-11-18_1803_Lance_Mason_to_Lauren_Brooker_Email_from_FSU_COB.txt](https://github.com/mconsulting/legal/blob/main/files/2020-11-18_1803_Lance_Mason_to_Lauren_Brooker_Email_from_FSU_COB.txt)
 
-[2020-11-27_1617_Lance_Mason_to_Lauren_Brooker_RequestForDiscovery.msg](https://github.com/mconsulting/legal/blob/main/files/2020-11-27_1617_Lance_Mason_to_Lauren_Brooker_RequestForDiscovery.msg)
-
 [2020-11-27_1617_Lance_Mason_to_Lauren_Brooker_RequestForDiscovery.txt](https://github.com/mconsulting/legal/blob/main/files/2020-11-27_1617_Lance_Mason_to_Lauren_Brooker_RequestForDiscovery.txt)
-
-[2020-11-30_0934_Lauren_Brooker_to_Lance_Mason_NoticeOfSpecialhearing.msg](https://github.com/mconsulting/legal/blob/main/files/2020-11-30_0934_Lauren_Brooker_to_Lance_Mason_NoticeOfSpecialhearing.msg)
 
 [2020-11-30_0934_Lauren_Brooker_to_Lance_Mason_NoticeOfSpecialhearing.txt](https://github.com/mconsulting/legal/blob/main/files/2020-11-30_0934_Lauren_Brooker_to_Lance_Mason_NoticeOfSpecialhearing.txt)
 
-[2020-11-30_2039_Lance_Mason_to_Lauren_Brooker_Fast_Slow.msg](https://github.com/mconsulting/legal/blob/main/files/2020-11-30_2039_Lance_Mason_to_Lauren_Brooker_Fast_Slow.msg)
-
 [2020-11-30_2039_Lance_Mason_to_Lauren_Brooker_Fast_Slow.txt](https://github.com/mconsulting/legal/blob/main/files/2020-11-30_2039_Lance_Mason_to_Lauren_Brooker_Fast_Slow.txt)
-
-[2020-12-04_1531_Lance_Mason_to_Lauren_Brooker_Gift_Video_Assessment.msg](https://github.com/mconsulting/legal/blob/main/files/2020-12-04_1531_Lance_Mason_to_Lauren_Brooker_Gift_Video_Assessment.msg)
 
 [2020-12-04_1531_Lance_Mason_to_Lauren_Brooker_Gift_Video_Assessment.txt](https://github.com/mconsulting/legal/blob/main/files/2020-12-04_1531_Lance_Mason_to_Lauren_Brooker_Gift_Video_Assessment.txt)
 
-[2020-12-04_1855_Lance_Mason_to_Lauren_Brooker_Alumnus.msg](https://github.com/mconsulting/legal/blob/main/files/2020-12-04_1855_Lance_Mason_to_Lauren_Brooker_Alumnus.msg)
-
 [2020-12-04_1855_Lance_Mason_to_Lauren_Brooker_Alumnus.txt](https://github.com/mconsulting/legal/blob/main/files/2020-12-04_1855_Lance_Mason_to_Lauren_Brooker_Alumnus.txt)
 
-[2020-12-04_1855_Lance_Mason_to_Lauren_Brooker_Assault.msg](https://github.com/mconsulting/legal/blob/main/files/2020-12-04_1855_Lance_Mason_to_Lauren_Brooker_Assault.msg)
-
 [2020-12-04_1855_Lance_Mason_to_Lauren_Brooker_Assault.txt](https://github.com/mconsulting/legal/blob/main/files/2020-12-04_1855_Lance_Mason_to_Lauren_Brooker_Assault.txt)
-
-[2020-12-04_1855_Lance_Mason_to_Lauren_Brooker_Schedule_call.msg](https://github.com/mconsulting/legal/blob/main/files/2020-12-04_1855_Lance_Mason_to_Lauren_Brooker_Schedule_call.msg)
 
 [2020-12-04_1855_Lance_Mason_to_Lauren_Brooker_Schedule_call.txt](https://github.com/mconsulting/legal/blob/main/files/2020-12-04_1855_Lance_Mason_to_Lauren_Brooker_Schedule_call.txt)
 
@@ -110,6 +92,8 @@
 
 [2020-12-11_0910_Lance_Mason_to_Lauren_Brooker_FBI_conspiracy_against_rights.txt](https://github.com/mconsulting/legal/blob/main/files/2020-12-11_0910_Lance_Mason_to_Lauren_Brooker_FBI_conspiracy_against_rights.txt)
 
+[2020-12-12_Marriage_License.pdf](https://github.com/mconsulting/legal/blob/main/files/2020-12-12_Marriage_License.pdf)
+
 [2020-12-22_1502_Lance_Mason_to_Lauren_Brooker_Lauren.txt](https://github.com/mconsulting/legal/blob/main/files/2020-12-22_1502_Lance_Mason_to_Lauren_Brooker_Lauren.txt)
 
 [2020-12-23_1250_Lauren_Brooker_to_Lance_Mason_Re_Lauren.txt](https://github.com/mconsulting/legal/blob/main/files/2020-12-23_1250_Lauren_Brooker_to_Lance_Mason_Re_Lauren.txt)
@@ -119,6 +103,8 @@
 [2020-12-30_1413_Lance_Mason_to_Lauren_Brooker_Re_Lauren.txt](https://github.com/mconsulting/legal/blob/main/files/2020-12-30_1413_Lance_Mason_to_Lauren_Brooker_Re_Lauren.txt)
 
 [2020-12-30_1416_Lance_Mason_to_Lauren_Brooker_Re_Lauren.txt](https://github.com/mconsulting/legal/blob/main/files/2020-12-30_1416_Lance_Mason_to_Lauren_Brooker_Re_Lauren.txt)
+
+[2020_12_08_15_28_34.mp3](https://github.com/mconsulting/legal/blob/main/files/2020_12_08_15_28_34.mp3)
 
 [2021-01-04_1142_Lauren_Brooker_to_Lance_Mason_Re_Lauren.txt](https://github.com/mconsulting/legal/blob/main/files/2021-01-04_1142_Lauren_Brooker_to_Lance_Mason_Re_Lauren.txt)
 
@@ -130,13 +116,9 @@
 
 [2021-01-05_1049_Withdrawing_from_a_conspiracy.png](https://github.com/mconsulting/legal/blob/main/files/2021-01-05_1049_Withdrawing_from_a_conspiracy.png)
 
-[2021-01-12_0443_Lance_Mason_to_Lance_Mason_Fwd_change_of_email_address_and_attorney.msg](https://github.com/mconsulting/legal/blob/main/files/2021-01-12_0443_Lance_Mason_to_Lance_Mason_Fwd_change_of_email_address_and_attorney.msg)
-
 [2021-01-12_0443_Lance_Mason_to_Lance_Mason_Fwd_change_of_email_address_and_attorney.txt](https://github.com/mconsulting/legal/blob/main/files/2021-01-12_0443_Lance_Mason_to_Lance_Mason_Fwd_change_of_email_address_and_attorney.txt)
 
 [2021-01-12_0609_Response_to_state_resending_bodycam.png](https://github.com/mconsulting/legal/blob/main/files/2021-01-12_0609_Response_to_state_resending_bodycam.png)
-
-[2021-02-09_Abandonment_of_client_after_discovery_request.msg](https://github.com/mconsulting/legal/blob/main/files/2021-02-09_Abandonment_of_client_after_discovery_request.msg)
 
 [2021-02-09_Abandonment_of_client_after_discovery_request.pdf](https://github.com/mconsulting/legal/blob/main/files/2021-02-09_Abandonment_of_client_after_discovery_request.pdf)
 
@@ -147,6 +129,8 @@
 [2021-06-14 Eco Challenge number 4.url](https://github.com/mconsulting/legal/blob/main/files/2021-06-14%20Eco%20Challenge%20number%204.url)
 
 [2021-06-16_095800_ECO_Challenge_Meeting_Agenda_Facebook.url](https://github.com/mconsulting/legal/blob/main/files/2021-06-16_095800_ECO_Challenge_Meeting_Agenda_Facebook.url)
+
+[2021-06-21_facebook_video.mp4](https://github.com/mconsulting/legal/blob/main/files/2021-06-21_facebook_video.mp4)
 
 [2021-06-22_1142 Bay County Public Library, day number 6.url](https://github.com/mconsulting/legal/blob/main/files/2021-06-22_1142%20Bay%20County%20Public%20Library%2C%20day%20number%206.url)
 
@@ -176,11 +160,13 @@
 
 [2022-04-19 Senich.png](https://github.com/mconsulting/legal/blob/main/files/2022-04-19%20Senich.png)
 
-[2022-04-27__0900_Gmail.-.CAD.sheet.request.pdf](https://github.com/mconsulting/legal/blob/main/files/2022-04-27__0900_Gmail.-.CAD.sheet.request.pdf)
+[2022-04-20_1530_Gmail.Audit.Logs.case.2010-0044.pdf](https://github.com/mconsulting/legal/blob/main/files/2022-04-20_1530_Gmail.Audit.Logs.case.2010-0044.pdf)
+
+[2022-04-27_0900_Gmail.-.CAD.sheet.request.pdf](https://github.com/mconsulting/legal/blob/main/files/2022-04-27_0900_Gmail.-.CAD.sheet.request.pdf)
 
 [2022_04_12_22_20_37.mp3](https://github.com/mconsulting/legal/blob/main/files/2022_04_12_22_20_37.mp3)
 
-[flushing-out-the-money-launderers-vf.pdf](https://github.com/mconsulting/legal/blob/main/files/flushing-out-the-money-launderers-vf.pdf)
+[FSUPDOrgChart_Summer2022v5.pdf](https://github.com/mconsulting/legal/blob/main/files/FSUPDOrgChart_Summer2022v5.pdf)
 
 [links.md](https://github.com/mconsulting/legal/blob/main/files/links.md)
 

@@ -5,8 +5,9 @@
     "\\CSFileManagerClient",
     "\\CSFileManagerClient\\Properties",
     "\\files",
-    "\\inbox"
+    "\\inbox",
+    "\\PythonFileManager"
   ],
-  "SelectedNode": "\\files\\2020-12-04_1531_Lance_Mason_to_Lauren_Brooker_Gift_Video_Assessment.txt",
+  "SelectedNode": "\\PythonFileManager\\outlook.py",
   "PreviewInSolutionExplorer": false
 }
