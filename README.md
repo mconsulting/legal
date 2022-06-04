@@ -2,17 +2,14 @@
 
 ## Latest news
 
-Three additional weeks of non-response by @Patti Wilmer at records
+Three additional weeks of non-response by FSU @Patti Wilmer,  at records
 
 [2022-05-04_1442_Gmail - Re_ FSU PD Records Request 2.pdf](https://github.com/mconsulting/legal/files/8764516/2022-05-04_1442_Gmail.-.Re_.FSU.PD.Records.Request.2.pdf)
 
 ## Purpose
-To provide a central repository of evidence related to legal cases in which I have an interest.  Both effectiveness and efficiency are vastly improved by information sharing between the stakeholders.
-
+To provide a central repository of evidence related to legal cases in which I have an interest
 
 [Central repository](files) 
-
-[Just the links](links.md)
 
 [issues](https://github.com/mconsulting/legal/issues)
 
@@ -22,6 +19,11 @@ To provide a central repository of evidence related to legal cases in which I ha
 
     [Florida State University Police]()
     [Office of Regional Conflict Counsel]()
+    
+    [Burke Blue](https://burkeblue.com)
+    
+  ## Pending discovery requests
+  
     
 
 
