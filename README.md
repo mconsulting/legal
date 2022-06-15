@@ -1,17 +1,9 @@
 # Mason Prepaid Legal and Assurance
 
 ## Latest news
-- FSU unable to produce audit logs for the bodycam
-- because they will prove conspiracy against rights
-
-
-
-
-
-
-
-
-additional weeks of non-response by FSU @Patti Wilmer,  at records
+- FSU unable to produce audit logs for the bodycam in sixty days.
+- disclosed at 500 days that bodycam requested continuously was deleted.
+- Angela Senich refuses to even ask for the audit log.
 
 [2022-05-04_1442_Gmail - Re_ FSU PD Records Request 2.pdf](https://github.com/mconsulting/legal/files/8764516/2022-05-04_1442_Gmail.-.Re_.FSU.PD.Records.Request.2.pdf)
 
