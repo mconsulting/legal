@@ -1,6 +1,7 @@
 # Mason Prepaid Legal and Assurance
 
 ## Latest news
+
 - FSU unable to produce audit logs for the bodycam in sixty days.
 - disclosed at 500 days that bodycam requested continuously was deleted.
 - Angela Senich refuses to even ask for the audit log.
@@ -20,14 +21,7 @@ To provide a central repository of evidence related to legal cases in which I ha
     [Office of Regional Conflict Counsel]()
     
     [Burke Blue](https://burkeblue.com)
-    
-  ## Pending discovery requests
-  
-    
 
-
-### Evidence of fraudulent misrepresentation by [Robert Sale](https://www.floridabar.org/mybarprofile/44725)
-[2020-02-21_1456_Email to Jay and Robert.pdf](
 
 ## Cases
 
@@ -38,11 +32,8 @@ To provide a central repository of evidence related to legal cases in which I ha
 [GitHub Discussion - Can I hire Gary Roberts?](https://github.com/mconsulting/legal/discussions/14)
 
 ### Lynn Haven Police Department
-
 ### Panama City Beach Police Department
-
 ### Panama City Police Department 
-
 ### Florida Bar
 
 
