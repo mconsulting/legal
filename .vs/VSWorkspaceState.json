@@ -1,13 +1,7 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\AuditManagerCommon",
-    "\\CSFileManagerClient",
-    "\\CSFileManagerClient\\Properties",
-    "\\files",
-    "\\inbox",
-    "\\PythonFileManager"
+    ""
   ],
-  "SelectedNode": "\\PythonFileManager\\outlook.py",
+  "SelectedNode": "\\AuditManager.sln",
   "PreviewInSolutionExplorer": false
 }
