@@ -9,8 +9,6 @@
 
 
 
-https://www.youtube.com/clip/UgkxvbTBSRhx7jUgmN2Vdq6PZRmLrgBVZDzK
-
 
 - FSU unable to produce audit logs for the bodycam in sixty days.
 - disclosed at 500 days that bodycam requested continuously was deleted.
