@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\fsu_trespassers",
+    "\\PythonFileManager"
   ],
-  "SelectedNode": "\\AuditManager.sln",
+  "SelectedNode": "\\fsu_trespassers",
   "PreviewInSolutionExplorer": false
 }
