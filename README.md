@@ -3,10 +3,10 @@
 ## Latest news
 
 ## project Charlie
-Named for [Charlie Wilson](https://en.m.wikipedia.org/wiki/Charlie_Wilson_(Texas_politician))
+Named for [Charlie Wilson](https://en.m.wikipedia.org/wiki/Charlie_Wilson_(Texas_politician)), 
 Texas congressman responsible for stinger missile whose introduction marked the beginning of the end for the Soviet Union occupation of Afghanistan.  A single person having less than a days trainings could bring down the aircraft of a world super power.
 
-In the modern era in the Ukraine,the javelin missile is serving the same role as a force multiplier and again has the leaders in the Kremlin considering their options with a resistance much more dangerous than anticipated.
+In the modern era, in the Ukraine,the [javelin missile](https://en.wikipedia.org/wiki/FGM-148_Javelin) is serving the same role as a force multiplier.  Once again it has the leaders in the Kremlin considering all options with a resistance much more dangerous than anticipated.
 
 [Javelin](javelin)
 
