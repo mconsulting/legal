@@ -5,7 +5,6 @@
 
 [Discussions](https://github.com/mconsulting/legal/discussions)
 
-
 Updating additional content at
 - [MPL wiki](https://github.com/mconsulting/mpl/wiki)
 
@@ -20,11 +19,9 @@ Updating additional content at
 
 ### Theft of Trade Secrets
 
+
 ### Florida State University Police Department
-
-
-![image](https://user-images.githubusercontent.com/11380899/176986750-9a05eca6-65cc-4d0f-8ccc-810ebe9dac51.png)
-
+  
 ### Lynn Haven Police Department
 
 ### Panama City Beach Police Department
@@ -32,6 +29,7 @@ Updating additional content at
 ### Panama City Police Department 
 
 ### Florida Bar
+  
 
 
 
