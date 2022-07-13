@@ -35,7 +35,7 @@ To provide a central repository of evidence related to legal cases in which I ha
 
 [issues](https://github.com/mconsulting/legal/issues)
 
-[Discussions](https://github.com/mconsulting/legal/issues)
+[Discussions](https://github.com/mconsulting/legal/discussions)
 
 
 
@@ -45,8 +45,6 @@ To provide a central repository of evidence related to legal cases in which I ha
 
     [Florida State University Police]()
 
-    [Office of Regional Conflict Counsel]()
-    
     [Burke Blue](https://burkeblue.com)
 
 
