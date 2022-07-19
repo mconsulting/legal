@@ -1,9 +1,12 @@
 {
   "ExpandedNodes": [
     "",
+    "\\files",
     "\\fsu_trespassers",
-    "\\PythonFileManager"
+    "\\inbox",
+    "\\PythonFileManager",
+    "\\PythonFileManager\\__pycache__"
   ],
-  "SelectedNode": "\\fsu_trespassers",
+  "SelectedNode": "\\files\\2012_EagleVShale.pdf",
   "PreviewInSolutionExplorer": false
 }

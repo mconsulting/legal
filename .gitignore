@@ -21,3 +21,6 @@
 /AuditManagerCommon/bin/Debug
 /AuditManager/obj/Release
 /.vs/legal/FileContentIndex
+.vs/slnx.sqlite
+.vs/legal/v17/.suo
+.gitignore
