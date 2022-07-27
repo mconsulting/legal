@@ -49,7 +49,7 @@ def get_list_of_files(dir_name,search_for='*'):
     file_info={'file_name':file_names,'last_modified':last_modifieds,'last_accessed':last_accessed,'file_size':file_sizes,'url':urls}
 
     df=pd.DataFrame(file_info)
-    df.to_csv(root + '\\files.csv')
+    df.to_csv(root + '\\files\\files.csv')
     print(df)
         
     return df
@@ -59,7 +59,7 @@ def add_links(list_of_files):
     # That will enable 
     df=list_of_files
     print
-    f=open(root + "\\links.md","w")
+    f=open(root + "\\files\\links.md","w")
     i=0
     f.write("## Links")
     f.write('\n\n')
