@@ -1,10 +1,16 @@
 ## Links
 
-2022-07-23 07:20:02.441449
+2022-08-10 01:42:02.517405
 
 [2015-12-13_1200_Mineral_Owners_Site_Downloads.xlsx](https://github.com/mconsulting/legal/blob/main/files/2015-12-13_1200_Mineral_Owners_Site_Downloads.xlsx)
 
 [2016-05-17_HighPressureStack.csv](https://github.com/mconsulting/legal/blob/main/files/2016-05-17_HighPressureStack.csv)
+
+[2019-08-20_NannyDeathbed.png](https://github.com/mconsulting/legal/blob/main/files/2019-08-20_NannyDeathbed.png)
+
+[2019-08-20_NannyDeathbed_ChickFila.png](https://github.com/mconsulting/legal/blob/main/files/2019-08-20_NannyDeathbed_ChickFila.png)
+
+[2019-08-20_NannyDeathbed_FBI.png](https://github.com/mconsulting/legal/blob/main/files/2019-08-20_NannyDeathbed_FBI.png)
 
 [2020-02-21_1456_Email to Jay and Robert.pdf](https://github.com/mconsulting/legal/blob/main/files/2020-02-21_1456_Email%20to%20Jay%20and%20Robert.pdf)
 
@@ -25,6 +31,8 @@
 [2020-10-09_1052_calling_Futrell_to_plan_evasion_tactics.png](https://github.com/mconsulting/legal/blob/main/files/2020-10-09_1052_calling_Futrell_to_plan_evasion_tactics.png)
 
 [2020-10-09_1114_Mason_Supplemental_Audio.mp3](https://github.com/mconsulting/legal/blob/main/files/2020-10-09_1114_Mason_Supplemental_Audio.mp3)
+
+[2020-10-09_LHPD_CAD_Sheet_2020-017196.pdf](https://github.com/mconsulting/legal/blob/main/files/2020-10-09_LHPD_CAD_Sheet_2020-017196.pdf)
 
 [2020-10-10_0000_Probable_Cause_Affidavit.png](https://github.com/mconsulting/legal/blob/main/files/2020-10-10_0000_Probable_Cause_Affidavit.png)
 
@@ -146,6 +154,24 @@
 
 [2021-09-23_0000_Complete IFile from JIS Mason.pdf](https://github.com/mconsulting/legal/blob/main/files/2021-09-23_0000_Complete%20IFile%20from%20JIS%20Mason.pdf)
 
+[2021-10-25_FBMessage01_17M33S.mp4](https://github.com/mconsulting/legal/blob/main/files/2021-10-25_FBMessage01_17M33S.mp4)
+
+[2021-10-25_FBMessage02_3M8Seconds.mp4](https://github.com/mconsulting/legal/blob/main/files/2021-10-25_FBMessage02_3M8Seconds.mp4)
+
+[2021-10-25_FBMessage03_59Seconds.mp4](https://github.com/mconsulting/legal/blob/main/files/2021-10-25_FBMessage03_59Seconds.mp4)
+
+[2021-10-25_FBMessage04_49Seconds.mp4](https://github.com/mconsulting/legal/blob/main/files/2021-10-25_FBMessage04_49Seconds.mp4)
+
+[2021-10-25_FBMessage05_56Seconds.mp4](https://github.com/mconsulting/legal/blob/main/files/2021-10-25_FBMessage05_56Seconds.mp4)
+
+[2021-10-25_FBMessage10_02M32S.mp4](https://github.com/mconsulting/legal/blob/main/files/2021-10-25_FBMessage10_02M32S.mp4)
+
+[2021-10-25_FBMessage11_02M.mp4](https://github.com/mconsulting/legal/blob/main/files/2021-10-25_FBMessage11_02M.mp4)
+
+[2021-10-25_FBMessage12_46Seconds.mp4](https://github.com/mconsulting/legal/blob/main/files/2021-10-25_FBMessage12_46Seconds.mp4)
+
+[2021-10-25_FBMessage13_44Seconds.mp4](https://github.com/mconsulting/legal/blob/main/files/2021-10-25_FBMessage13_44Seconds.mp4)
+
 [2021-11-09_0000_23-16-40-234_Summons.pdf](https://github.com/mconsulting/legal/blob/main/files/2021-11-09_0000_23-16-40-234_Summons.pdf)
 
 [2021-11-10_1212_Uncle Dennis giving notice after charges filed.png](https://github.com/mconsulting/legal/blob/main/files/2021-11-10_1212_Uncle%20Dennis%20giving%20notice%20after%20charges%20filed.png)
@@ -245,6 +271,10 @@
 [map_01_as_html.html](https://github.com/mconsulting/legal/blob/main/files/map_01_as_html.html)
 
 [map_01_as_html.zip](https://github.com/mconsulting/legal/blob/main/files/map_01_as_html.zip)
+
+[map_02.kgl.html](https://github.com/mconsulting/legal/blob/main/files/map_02.kgl.html)
+
+[map_02.kgl.zip](https://github.com/mconsulting/legal/blob/main/files/map_02.kgl.zip)
 
 [MindMaps_EcoChallenge.drawio.html](https://github.com/mconsulting/legal/blob/main/files/MindMaps_EcoChallenge.drawio.html)
 
