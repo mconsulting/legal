@@ -1,8 +1,13 @@
 # Mason Prepaid Legal
 
+## Walsh/Futrell give less than their best performances after a strong armed robbery attempt.
+
+## Calls to State Attorney on 8/9 and 8/10
+
+
+
 ## New [Oklahoma Mineral Interest Acquisitions Map](https://mconsulting.github.io/legal/OKMap.html) 
 
-Video will be forthcoming
 
 
 Go to [wiki](https://github.com/mconsulting/legal/wiki) for more information
