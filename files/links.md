@@ -1,10 +1,12 @@
 ## Links
 
-2022-08-10 06:32:08.979579
+2022-08-22 20:54:37.252545
 
 [2015-12-13_1200_Mineral_Owners_Site_Downloads.xlsx](https://github.com/mconsulting/legal/blob/main/files/2015-12-13_1200_Mineral_Owners_Site_Downloads.xlsx)
 
 [2016-05-17_HighPressureStack.csv](https://github.com/mconsulting/legal/blob/main/files/2016-05-17_HighPressureStack.csv)
+
+[2019-08-02_Administrative_Order.pdf](https://github.com/mconsulting/legal/blob/main/files/2019-08-02_Administrative_Order.pdf)
 
 [2019-08-20_NannyDeathbed.png](https://github.com/mconsulting/legal/blob/main/files/2019-08-20_NannyDeathbed.png)
 
@@ -12,11 +14,17 @@
 
 [2019-08-20_NannyDeathbed_FBI.png](https://github.com/mconsulting/legal/blob/main/files/2019-08-20_NannyDeathbed_FBI.png)
 
+[2020-02-21.png](https://github.com/mconsulting/legal/blob/main/files/2020-02-21.png)
+
 [2020-02-21_1456_Email to Jay and Robert.pdf](https://github.com/mconsulting/legal/blob/main/files/2020-02-21_1456_Email%20to%20Jay%20and%20Robert.pdf)
 
 [2020-02-27_1337_Email to Robert and Jay.pdf](https://github.com/mconsulting/legal/blob/main/files/2020-02-27_1337_Email%20to%20Robert%20and%20Jay.pdf)
 
 [2020-03-17_1300_Pat_Futrell_Solich.png](https://github.com/mconsulting/legal/blob/main/files/2020-03-17_1300_Pat_Futrell_Solich.png)
+
+[2020-06-16_Capias_Executed.pdf](https://github.com/mconsulting/legal/blob/main/files/2020-06-16_Capias_Executed.pdf)
+
+[2020-08-04_DiscoveryResponse.pdf](https://github.com/mconsulting/legal/blob/main/files/2020-08-04_DiscoveryResponse.pdf)
 
 [2020-09-23_Email_Futrell_Mason.pdf](https://github.com/mconsulting/legal/blob/main/files/2020-09-23_Email_Futrell_Mason.pdf)
 
@@ -35,6 +43,8 @@
 [2020-10-09_1114_Mason_Supplemental_Audio.mp3](https://github.com/mconsulting/legal/blob/main/files/2020-10-09_1114_Mason_Supplemental_Audio.mp3)
 
 [2020-10-09_LHPD_CAD_Sheet_2020-017196.pdf](https://github.com/mconsulting/legal/blob/main/files/2020-10-09_LHPD_CAD_Sheet_2020-017196.pdf)
+
+[2020-10-09_LHPD_CAD_Sheet_2020-017196.png](https://github.com/mconsulting/legal/blob/main/files/2020-10-09_LHPD_CAD_Sheet_2020-017196.png)
 
 [2020-10-10_0000_Probable_Cause_Affidavit.png](https://github.com/mconsulting/legal/blob/main/files/2020-10-10_0000_Probable_Cause_Affidavit.png)
 
@@ -80,6 +90,10 @@
 
 [2020-11-18_1803_Lance_Mason_to_Lauren_Brooker_Email_from_FSU_COB.txt](https://github.com/mconsulting/legal/blob/main/files/2020-11-18_1803_Lance_Mason_to_Lauren_Brooker_Email_from_FSU_COB.txt)
 
+[2020-11-22 Attempted strong arm robbery.mp4](https://github.com/mconsulting/legal/blob/main/files/2020-11-22%20Attempted%20strong%20arm%20robbery.mp4)
+
+[2020-11-22_0715_LHPD_Interview.mp4](https://github.com/mconsulting/legal/blob/main/files/2020-11-22_0715_LHPD_Interview.mp4)
+
 [2020-11-27_1617_Lance_Mason_to_Lauren_Brooker_RequestForDiscovery.txt](https://github.com/mconsulting/legal/blob/main/files/2020-11-27_1617_Lance_Mason_to_Lauren_Brooker_RequestForDiscovery.txt)
 
 [2020-11-30_0934_Lauren_Brooker_to_Lance_Mason_NoticeOfSpecialhearing.txt](https://github.com/mconsulting/legal/blob/main/files/2020-11-30_0934_Lauren_Brooker_to_Lance_Mason_NoticeOfSpecialhearing.txt)
@@ -105,6 +119,8 @@
 [2020-12-11_0910_Lance_Mason_to_Lauren_Brooker_FBI_conspiracy_against_rights.txt](https://github.com/mconsulting/legal/blob/main/files/2020-12-11_0910_Lance_Mason_to_Lauren_Brooker_FBI_conspiracy_against_rights.txt)
 
 [2020-12-12_Marriage_License.pdf](https://github.com/mconsulting/legal/blob/main/files/2020-12-12_Marriage_License.pdf)
+
+[2020-12-18_Pretrial_In_4_Months.pdf](https://github.com/mconsulting/legal/blob/main/files/2020-12-18_Pretrial_In_4_Months.pdf)
 
 [2020-12-22_1502_Lance_Mason_to_Lauren_Brooker_Lauren.txt](https://github.com/mconsulting/legal/blob/main/files/2020-12-22_1502_Lance_Mason_to_Lauren_Brooker_Lauren.txt)
 
@@ -142,6 +158,8 @@
 
 [2021-06-14 Eco Challenge number 4.url](https://github.com/mconsulting/legal/blob/main/files/2021-06-14%20Eco%20Challenge%20number%204.url)
 
+[2021-06-14_Lee_McArthur_public_defender.png](https://github.com/mconsulting/legal/blob/main/files/2021-06-14_Lee_McArthur_public_defender.png)
+
 [2021-06-16_095800_ECO_Challenge_Meeting_Agenda_Facebook.url](https://github.com/mconsulting/legal/blob/main/files/2021-06-16_095800_ECO_Challenge_Meeting_Agenda_Facebook.url)
 
 [2021-06-21_facebook_video.mp4](https://github.com/mconsulting/legal/blob/main/files/2021-06-21_facebook_video.mp4)
@@ -149,6 +167,8 @@
 [2021-06-22_1142 Bay County Public Library, day number 6.url](https://github.com/mconsulting/legal/blob/main/files/2021-06-22_1142%20Bay%20County%20Public%20Library%2C%20day%20number%206.url)
 
 [2021-06-23_2100_PCPD_Detainer_61019628.pdf](https://github.com/mconsulting/legal/blob/main/files/2021-06-23_2100_PCPD_Detainer_61019628.pdf)
+
+[2021-06-23_Last_Transmission.png](https://github.com/mconsulting/legal/blob/main/files/2021-06-23_Last_Transmission.png)
 
 [2021-06-24_2157_PDPD_Warrant_Extradition6547866.pdf](https://github.com/mconsulting/legal/blob/main/files/2021-06-24_2157_PDPD_Warrant_Extradition6547866.pdf)
 
@@ -214,6 +234,8 @@
 
 [Bs01](https://github.com/mconsulting/legal/blob/main/files/Bs01)
 
+[Exhibit_BusinessProcess.png](https://github.com/mconsulting/legal/blob/main/files/Exhibit_BusinessProcess.png)
+
 [files.csv](https://github.com/mconsulting/legal/blob/main/files/files.csv)
 
 [FSUPDOrgChart_Summer2022v5.pdf](https://github.com/mconsulting/legal/blob/main/files/FSUPDOrgChart_Summer2022v5.pdf)
@@ -264,7 +286,13 @@
 
 [history-2020-11-24.kml](https://github.com/mconsulting/legal/blob/main/files/history-2020-11-24.kml)
 
+[history-2020-11-25.geojson](https://github.com/mconsulting/legal/blob/main/files/history-2020-11-25.geojson)
+
 [history-2020-11-25.kml](https://github.com/mconsulting/legal/blob/main/files/history-2020-11-25.kml)
+
+[Instruments_Selected__Analysis.xlsx](https://github.com/mconsulting/legal/blob/main/files/Instruments_Selected__Analysis.xlsx)
+
+[LHPD_FloridaHighwayPatrol.png](https://github.com/mconsulting/legal/blob/main/files/LHPD_FloridaHighwayPatrol.png)
 
 [links.md](https://github.com/mconsulting/legal/blob/main/files/links.md)
 
