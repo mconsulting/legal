@@ -1,9 +1,10 @@
 # Mason Prepaid Legal
 
 
-## New [Oklahoma Mineral Interest Acquisitions Map](https://mconsulting.github.io/legal/OKMap.html) 
+## [Unanswered questions, Burke Blue](https://youtu.be/TZ4Dl0a7Lfw) 
 
 
+New [Oklahoma Mineral Interest Acquisitions Map](https://mconsulting.github.io/legal/OKMap.html) 
 
 Go to [wiki](https://github.com/mconsulting/legal/wiki) for more information
 
