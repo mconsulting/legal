@@ -1,6 +1,6 @@
 ## Links
 
-2022-09-04 10:22:07.006339
+2022-09-08 00:38:23.565384
 
 [2015-12-13_1200_Mineral_Owners_Site_Downloads.xlsx](https://github.com/mconsulting/legal/blob/main/files/2015-12-13_1200_Mineral_Owners_Site_Downloads.xlsx)
 
@@ -14,9 +14,9 @@
 
 [2019-08-20_NannyDeathbed_FBI.png](https://github.com/mconsulting/legal/blob/main/files/2019-08-20_NannyDeathbed_FBI.png)
 
-[2020-02-21.png](https://github.com/mconsulting/legal/blob/main/files/2020-02-21.png)
-
 [2020-02-21_1456_Email to Jay and Robert.pdf](https://github.com/mconsulting/legal/blob/main/files/2020-02-21_1456_Email%20to%20Jay%20and%20Robert.pdf)
+
+[2020-02-21_1456_Email to Jay and Robert.png](https://github.com/mconsulting/legal/blob/main/files/2020-02-21_1456_Email%20to%20Jay%20and%20Robert.png)
 
 [2020-02-27_1337_Email to Robert and Jay.pdf](https://github.com/mconsulting/legal/blob/main/files/2020-02-27_1337_Email%20to%20Robert%20and%20Jay.pdf)
 
@@ -36,17 +36,17 @@
 
 [2020-10-09_0934_Calling_Steve_Dawson.png](https://github.com/mconsulting/legal/blob/main/files/2020-10-09_0934_Calling_Steve_Dawson.png)
 
+[2020-10-09_1004_LHPD_CAD_Sheet_2020-017196.pdf](https://github.com/mconsulting/legal/blob/main/files/2020-10-09_1004_LHPD_CAD_Sheet_2020-017196.pdf)
+
+[2020-10-09_1004_LHPD_CAD_Sheet_2020-017196.png](https://github.com/mconsulting/legal/blob/main/files/2020-10-09_1004_LHPD_CAD_Sheet_2020-017196.png)
+
 [2020-10-09_1043_ToHarryFutrell.png](https://github.com/mconsulting/legal/blob/main/files/2020-10-09_1043_ToHarryFutrell.png)
 
 [2020-10-09_1052_calling_Futrell_to_plan_evasion_tactics.png](https://github.com/mconsulting/legal/blob/main/files/2020-10-09_1052_calling_Futrell_to_plan_evasion_tactics.png)
 
 [2020-10-09_1114_Mason_Supplemental_Audio.mp3](https://github.com/mconsulting/legal/blob/main/files/2020-10-09_1114_Mason_Supplemental_Audio.mp3)
 
-[2020-10-09_LHPD_CAD_Sheet_2020-017196.pdf](https://github.com/mconsulting/legal/blob/main/files/2020-10-09_LHPD_CAD_Sheet_2020-017196.pdf)
-
-[2020-10-09_LHPD_CAD_Sheet_2020-017196.png](https://github.com/mconsulting/legal/blob/main/files/2020-10-09_LHPD_CAD_Sheet_2020-017196.png)
-
-[2020-10-10_0000_Probable_Cause_Affidavit.png](https://github.com/mconsulting/legal/blob/main/files/2020-10-10_0000_Probable_Cause_Affidavit.png)
+[2020-10-09_2334_Probable_Cause_Affidavit.png](https://github.com/mconsulting/legal/blob/main/files/2020-10-09_2334_Probable_Cause_Affidavit.png)
 
 [2020-10-10_0747 Judge Hobbs hearing the case hours after incident.png](https://github.com/mconsulting/legal/blob/main/files/2020-10-10_0747%20Judge%20Hobbs%20hearing%20the%20case%20hours%20after%20incident.png)
 
@@ -178,6 +178,8 @@
 
 [2021-09-23_0000_Complete IFile from JIS Mason.pdf](https://github.com/mconsulting/legal/blob/main/files/2021-09-23_0000_Complete%20IFile%20from%20JIS%20Mason.pdf)
 
+[2021-10-25_1601_FBPost_PointingToYTVid.png](https://github.com/mconsulting/legal/blob/main/files/2021-10-25_1601_FBPost_PointingToYTVid.png)
+
 [2021-10-25_FBMessage01_17M33S.mp4](https://github.com/mconsulting/legal/blob/main/files/2021-10-25_FBMessage01_17M33S.mp4)
 
 [2021-10-25_FBMessage02_3M8Seconds.mp4](https://github.com/mconsulting/legal/blob/main/files/2021-10-25_FBMessage02_3M8Seconds.mp4)
@@ -212,11 +214,13 @@
 
 [2022-02-18_New_discovery_CapturePerfect3.1 Scan to Print.pdf](https://github.com/mconsulting/legal/blob/main/files/2022-02-18_New_discovery_CapturePerfect3.1%20Scan%20to%20Print.pdf)
 
+[2022-04-05 Senich.png](https://github.com/mconsulting/legal/blob/main/files/2022-04-05%20Senich.png)
+
 [2022-04-12_2220_Bodycam_erased.mp3](https://github.com/mconsulting/legal/blob/main/files/2022-04-12_2220_Bodycam_erased.mp3)
 
 [2022-04-18_1058_Message_to_Senich.mp3](https://github.com/mconsulting/legal/blob/main/files/2022-04-18_1058_Message_to_Senich.mp3)
 
-[2022-04-19 Senich.png](https://github.com/mconsulting/legal/blob/main/files/2022-04-19%20Senich.png)
+[2022-04-19_0622_Senich_not_asking_to_plead_gulty.png](https://github.com/mconsulting/legal/blob/main/files/2022-04-19_0622_Senich_not_asking_to_plead_gulty.png)
 
 [2022-04-20_1530_Gmail.Audit.Logs.case.2010-0044.pdf](https://github.com/mconsulting/legal/blob/main/files/2022-04-20_1530_Gmail.Audit.Logs.case.2010-0044.pdf)
 
@@ -227,6 +231,10 @@
 [2022-07-14_map_01.kgl.html](https://github.com/mconsulting/legal/blob/main/files/2022-07-14_map_01.kgl.html)
 
 [2022-07-14_map_01_test.kgl.html](https://github.com/mconsulting/legal/blob/main/files/2022-07-14_map_01_test.kgl.html)
+
+[2022-08-18_1700_Mailtrack.png](https://github.com/mconsulting/legal/blob/main/files/2022-08-18_1700_Mailtrack.png)
+
+[2022-08-18_More_Email_to_Diaz.png](https://github.com/mconsulting/legal/blob/main/files/2022-08-18_More_Email_to_Diaz.png)
 
 [2022-09-01_Snookie_Ranes_Memorial](https://github.com/mconsulting/legal/blob/main/files/2022-09-01_Snookie_Ranes_Memorial)
 
@@ -298,8 +306,6 @@
 
 [Instruments_Selected__Analysis.xlsx](https://github.com/mconsulting/legal/blob/main/files/Instruments_Selected__Analysis.xlsx)
 
-[LHPD_FloridaHighwayPatrol.png](https://github.com/mconsulting/legal/blob/main/files/LHPD_FloridaHighwayPatrol.png)
-
 [links.md](https://github.com/mconsulting/legal/blob/main/files/links.md)
 
 [maps](https://github.com/mconsulting/legal/blob/main/files/maps)
@@ -317,4 +323,6 @@
 [MindMaps_EcoChallenge.drawio.html](https://github.com/mconsulting/legal/blob/main/files/MindMaps_EcoChallenge.drawio.html)
 
 [Tallahassee_Leon_Record_murders_2020.pdf](https://github.com/mconsulting/legal/blob/main/files/Tallahassee_Leon_Record_murders_2020.pdf)
+
+[_2022-04-27_0911_LHPD_FloridaHighwayPatrol.png](https://github.com/mconsulting/legal/blob/main/files/_2022-04-27_0911_LHPD_FloridaHighwayPatrol.png)
 
