@@ -1,18 +1,16 @@
 ## Links
 
-2022-09-08 00:38:23.565384
+2022-09-10 01:48:12.219787
 
-[2015-12-13_1200_Mineral_Owners_Site_Downloads.xlsx](https://github.com/mconsulting/legal/blob/main/files/2015-12-13_1200_Mineral_Owners_Site_Downloads.xlsx)
+[2016-05-17_1200_HighPressureStack.csv](https://github.com/mconsulting/legal/blob/main/files/2016-05-17_1200_HighPressureStack.csv)
 
-[2016-05-17_HighPressureStack.csv](https://github.com/mconsulting/legal/blob/main/files/2016-05-17_HighPressureStack.csv)
+[2019-08-02_0000_Administrative_Order.pdf](https://github.com/mconsulting/legal/blob/main/files/2019-08-02_0000_Administrative_Order.pdf)
 
-[2019-08-02_Administrative_Order.pdf](https://github.com/mconsulting/legal/blob/main/files/2019-08-02_Administrative_Order.pdf)
+[2019-08-20_0700_NannyDeathbed.png](https://github.com/mconsulting/legal/blob/main/files/2019-08-20_0700_NannyDeathbed.png)
 
-[2019-08-20_NannyDeathbed.png](https://github.com/mconsulting/legal/blob/main/files/2019-08-20_NannyDeathbed.png)
+[2019-08-20_1400_NannyDeathbed_ChickFila.png](https://github.com/mconsulting/legal/blob/main/files/2019-08-20_1400_NannyDeathbed_ChickFila.png)
 
-[2019-08-20_NannyDeathbed_ChickFila.png](https://github.com/mconsulting/legal/blob/main/files/2019-08-20_NannyDeathbed_ChickFila.png)
-
-[2019-08-20_NannyDeathbed_FBI.png](https://github.com/mconsulting/legal/blob/main/files/2019-08-20_NannyDeathbed_FBI.png)
+[2019-08-20_1400_NannyDeathbed_FBI.png](https://github.com/mconsulting/legal/blob/main/files/2019-08-20_1400_NannyDeathbed_FBI.png)
 
 [2020-02-21_1456_Email to Jay and Robert.pdf](https://github.com/mconsulting/legal/blob/main/files/2020-02-21_1456_Email%20to%20Jay%20and%20Robert.pdf)
 
@@ -22,7 +20,7 @@
 
 [2020-03-17_1300_Pat_Futrell_Solich.png](https://github.com/mconsulting/legal/blob/main/files/2020-03-17_1300_Pat_Futrell_Solich.png)
 
-[2020-06-16_Capias_Executed.pdf](https://github.com/mconsulting/legal/blob/main/files/2020-06-16_Capias_Executed.pdf)
+[2020-07-10_PCPD_Oakland_Terrace.pdf](https://github.com/mconsulting/legal/blob/main/files/2020-07-10_PCPD_Oakland_Terrace.pdf)
 
 [2020-08-04_DiscoveryResponse.pdf](https://github.com/mconsulting/legal/blob/main/files/2020-08-04_DiscoveryResponse.pdf)
 
@@ -90,7 +88,7 @@
 
 [2020-11-18_1803_Lance_Mason_to_Lauren_Brooker_Email_from_FSU_COB.txt](https://github.com/mconsulting/legal/blob/main/files/2020-11-18_1803_Lance_Mason_to_Lauren_Brooker_Email_from_FSU_COB.txt)
 
-[2020-11-22 Attempted strong arm robbery.mp4](https://github.com/mconsulting/legal/blob/main/files/2020-11-22%20Attempted%20strong%20arm%20robbery.mp4)
+[2020-11-22_0700_Attempted strong arm robbery.mp4](https://github.com/mconsulting/legal/blob/main/files/2020-11-22_0700_Attempted%20strong%20arm%20robbery.mp4)
 
 [2020-11-22_0715_LHPD_Interview.mp4](https://github.com/mconsulting/legal/blob/main/files/2020-11-22_0715_LHPD_Interview.mp4)
 
@@ -110,7 +108,7 @@
 
 [2020-12-07_1631_Lauren_Brooker_to_Lance_Mason_Received_videos.txt](https://github.com/mconsulting/legal/blob/main/files/2020-12-07_1631_Lauren_Brooker_to_Lance_Mason_Received_videos.txt)
 
-[2020-12-08 tuesday evening update.pdf](https://github.com/mconsulting/legal/blob/main/files/2020-12-08%20tuesday%20evening%20update.pdf)
+[2020-12-08_1548_tuesday evening update.pdf](https://github.com/mconsulting/legal/blob/main/files/2020-12-08_1548_tuesday%20evening%20update.pdf)
 
 [2020-12-10_1456_Lance_Mason_to_Lauren_Brooker_ready_to_go.txt](https://github.com/mconsulting/legal/blob/main/files/2020-12-10_1456_Lance_Mason_to_Lauren_Brooker_ready_to_go.txt)
 
@@ -118,9 +116,9 @@
 
 [2020-12-11_0910_Lance_Mason_to_Lauren_Brooker_FBI_conspiracy_against_rights.txt](https://github.com/mconsulting/legal/blob/main/files/2020-12-11_0910_Lance_Mason_to_Lauren_Brooker_FBI_conspiracy_against_rights.txt)
 
-[2020-12-12_Marriage_License.pdf](https://github.com/mconsulting/legal/blob/main/files/2020-12-12_Marriage_License.pdf)
+[2020-12-12_0000_Marriage_License.pdf](https://github.com/mconsulting/legal/blob/main/files/2020-12-12_0000_Marriage_License.pdf)
 
-[2020-12-18_Pretrial_In_4_Months.pdf](https://github.com/mconsulting/legal/blob/main/files/2020-12-18_Pretrial_In_4_Months.pdf)
+[2020-12-18_1200_Pretrial_In_4_Months.pdf](https://github.com/mconsulting/legal/blob/main/files/2020-12-18_1200_Pretrial_In_4_Months.pdf)
 
 [2020-12-22_1502_Lance_Mason_to_Lauren_Brooker_Lauren.txt](https://github.com/mconsulting/legal/blob/main/files/2020-12-22_1502_Lance_Mason_to_Lauren_Brooker_Lauren.txt)
 
@@ -132,7 +130,7 @@
 
 [2020-12-30_1416_Lance_Mason_to_Lauren_Brooker_Re_Lauren.txt](https://github.com/mconsulting/legal/blob/main/files/2020-12-30_1416_Lance_Mason_to_Lauren_Brooker_Re_Lauren.txt)
 
-[2020_12_08_15_28_34.mp3](https://github.com/mconsulting/legal/blob/main/files/2020_12_08_15_28_34.mp3)
+[2020_12_08_1528_TuesdayUpdate.mp3](https://github.com/mconsulting/legal/blob/main/files/2020_12_08_1528_TuesdayUpdate.mp3)
 
 [2021-01-04_1142_Lauren_Brooker_to_Lance_Mason_Re_Lauren.txt](https://github.com/mconsulting/legal/blob/main/files/2021-01-04_1142_Lauren_Brooker_to_Lance_Mason_Re_Lauren.txt)
 
@@ -140,9 +138,9 @@
 
 [2021-01-05_1032_Lance_Mason_to_prf01aol.com_Lauren_Brooker_Phone_and_guidance_on_withdrawing_from_a_conspiracy.txt](https://github.com/mconsulting/legal/blob/main/files/2021-01-05_1032_Lance_Mason_to_prf01aol.com_Lauren_Brooker_Phone_and_guidance_on_withdrawing_from_a_conspiracy.txt)
 
-[2021-01-05_1049_Lauren_Brooker_to_Lance_Mason_Re_Phone_and_guidance_on_withdrawing_from_a_conspiracy.txt](https://github.com/mconsulting/legal/blob/main/files/2021-01-05_1049_Lauren_Brooker_to_Lance_Mason_Re_Phone_and_guidance_on_withdrawing_from_a_conspiracy.txt)
+[2021-01-05_1049_Lauren_Brooker_to_Lance_Mason_Re_Phone_and_guidance_on_withdrawing_from_a_conspiracy.png](https://github.com/mconsulting/legal/blob/main/files/2021-01-05_1049_Lauren_Brooker_to_Lance_Mason_Re_Phone_and_guidance_on_withdrawing_from_a_conspiracy.png)
 
-[2021-01-05_1049_Withdrawing_from_a_conspiracy.png](https://github.com/mconsulting/legal/blob/main/files/2021-01-05_1049_Withdrawing_from_a_conspiracy.png)
+[2021-01-05_1049_Lauren_Brooker_to_Lance_Mason_Re_Phone_and_guidance_on_withdrawing_from_a_conspiracy.txt](https://github.com/mconsulting/legal/blob/main/files/2021-01-05_1049_Lauren_Brooker_to_Lance_Mason_Re_Phone_and_guidance_on_withdrawing_from_a_conspiracy.txt)
 
 [2021-01-12_0443_Lance_Mason_to_Lance_Mason_Fwd_change_of_email_address_and_attorney.txt](https://github.com/mconsulting/legal/blob/main/files/2021-01-12_0443_Lance_Mason_to_Lance_Mason_Fwd_change_of_email_address_and_attorney.txt)
 
@@ -150,13 +148,13 @@
 
 [2021-01-15_AttorneyConsumerAssistanceProgram_1 (1).pdf](https://github.com/mconsulting/legal/blob/main/files/2021-01-15_AttorneyConsumerAssistanceProgram_1%20%281%29.pdf)
 
-[2021-02-09_Abandonment_of_client_after_discovery_request.pdf](https://github.com/mconsulting/legal/blob/main/files/2021-02-09_Abandonment_of_client_after_discovery_request.pdf)
+[2021-02-09_1646_Abandonment_of_client_after_discovery_request.pdf](https://github.com/mconsulting/legal/blob/main/files/2021-02-09_1646_Abandonment_of_client_after_discovery_request.pdf)
 
-[2021-02-09_Abandonment_of_client_after_discovery_request.txt](https://github.com/mconsulting/legal/blob/main/files/2021-02-09_Abandonment_of_client_after_discovery_request.txt)
+[2021-02-09_1646_Abandonment_of_client_after_discovery_request.txt](https://github.com/mconsulting/legal/blob/main/files/2021-02-09_1646_Abandonment_of_client_after_discovery_request.txt)
 
-[2021-05-29_LinkedIn_WillCullen.png](https://github.com/mconsulting/legal/blob/main/files/2021-05-29_LinkedIn_WillCullen.png)
+[2021-05-29_0839_LinkedIn_WillCullen.png](https://github.com/mconsulting/legal/blob/main/files/2021-05-29_0839_LinkedIn_WillCullen.png)
 
-[2021-06-04_1846_Call_Lauren_Brooker.mp3.m4a](https://github.com/mconsulting/legal/blob/main/files/2021-06-04_1846_Call_Lauren_Brooker.mp3.m4a)
+[2021-06-04_1846_Call_Lauren_Brooker.mp3](https://github.com/mconsulting/legal/blob/main/files/2021-06-04_1846_Call_Lauren_Brooker.mp3)
 
 [2021-06-14 Eco Challenge number 4.txt](https://github.com/mconsulting/legal/blob/main/files/2021-06-14%20Eco%20Challenge%20number%204.txt)
 
@@ -164,15 +162,17 @@
 
 [2021-06-16_095800_ECO_Challenge_Meeting_Agenda_Facebook.txt](https://github.com/mconsulting/legal/blob/main/files/2021-06-16_095800_ECO_Challenge_Meeting_Agenda_Facebook.txt)
 
+[2021-06-16_Capias_Executed.pdf](https://github.com/mconsulting/legal/blob/main/files/2021-06-16_Capias_Executed.pdf)
+
 [2021-06-21_facebook_video.mp4](https://github.com/mconsulting/legal/blob/main/files/2021-06-21_facebook_video.mp4)
 
 [2021-06-22_1142 Bay County Public Library, day number 6.txt](https://github.com/mconsulting/legal/blob/main/files/2021-06-22_1142%20Bay%20County%20Public%20Library%2C%20day%20number%206.txt)
 
+[2021-06-23_1600_Last_Transmission.png](https://github.com/mconsulting/legal/blob/main/files/2021-06-23_1600_Last_Transmission.png)
+
 [2021-06-23_2100_PCPD_Detainer_61019628.pdf](https://github.com/mconsulting/legal/blob/main/files/2021-06-23_2100_PCPD_Detainer_61019628.pdf)
 
 [2021-06-23_2157_PDPD_Warrant_Extradition6547866.pdf](https://github.com/mconsulting/legal/blob/main/files/2021-06-23_2157_PDPD_Warrant_Extradition6547866.pdf)
-
-[2021-06-23_Last_Transmission.png](https://github.com/mconsulting/legal/blob/main/files/2021-06-23_Last_Transmission.png)
 
 [2021-09-04_0505_pcbpd.pdf](https://github.com/mconsulting/legal/blob/main/files/2021-09-04_0505_pcbpd.pdf)
 
@@ -214,7 +214,7 @@
 
 [2022-02-18_New_discovery_CapturePerfect3.1 Scan to Print.pdf](https://github.com/mconsulting/legal/blob/main/files/2022-02-18_New_discovery_CapturePerfect3.1%20Scan%20to%20Print.pdf)
 
-[2022-04-05 Senich.png](https://github.com/mconsulting/legal/blob/main/files/2022-04-05%20Senich.png)
+[2022-04-05_0841_SenichHypothesis.png](https://github.com/mconsulting/legal/blob/main/files/2022-04-05_0841_SenichHypothesis.png)
 
 [2022-04-12_2220_Bodycam_erased.mp3](https://github.com/mconsulting/legal/blob/main/files/2022-04-12_2220_Bodycam_erased.mp3)
 
@@ -226,11 +226,9 @@
 
 [2022-04-27_0900_Gmail.-.CAD.sheet.request.pdf](https://github.com/mconsulting/legal/blob/main/files/2022-04-27_0900_Gmail.-.CAD.sheet.request.pdf)
 
+[2022-04-27_0911_LHPD_FloridaHighwayPatrol.png](https://github.com/mconsulting/legal/blob/main/files/2022-04-27_0911_LHPD_FloridaHighwayPatrol.png)
+
 [2022-05-04_1442_Gmail - Re_ FSU PD Records Request 2.pdf](https://github.com/mconsulting/legal/blob/main/files/2022-05-04_1442_Gmail%20-%20Re_%20FSU%20PD%20Records%20Request%202.pdf)
-
-[2022-07-14_map_01.kgl.html](https://github.com/mconsulting/legal/blob/main/files/2022-07-14_map_01.kgl.html)
-
-[2022-07-14_map_01_test.kgl.html](https://github.com/mconsulting/legal/blob/main/files/2022-07-14_map_01_test.kgl.html)
 
 [2022-08-18_1700_Mailtrack.png](https://github.com/mconsulting/legal/blob/main/files/2022-08-18_1700_Mailtrack.png)
 
@@ -246,63 +244,15 @@
 
 [audioclip-1636136115000-47323.mp4](https://github.com/mconsulting/legal/blob/main/files/audioclip-1636136115000-47323.mp4)
 
-[Bs01](https://github.com/mconsulting/legal/blob/main/files/Bs01)
-
 [Exhibit_BusinessProcess.png](https://github.com/mconsulting/legal/blob/main/files/Exhibit_BusinessProcess.png)
+
+[Exhibit_EagleVShale.pdf](https://github.com/mconsulting/legal/blob/main/files/Exhibit_EagleVShale.pdf)
 
 [files.csv](https://github.com/mconsulting/legal/blob/main/files/files.csv)
 
 [FSUPDOrgChart_Summer2022v5.pdf](https://github.com/mconsulting/legal/blob/main/files/FSUPDOrgChart_Summer2022v5.pdf)
 
-[history-2019-12-01.geojson](https://github.com/mconsulting/legal/blob/main/files/history-2019-12-01.geojson)
-
-[history-2019-12-01.kml](https://github.com/mconsulting/legal/blob/main/files/history-2019-12-01.kml)
-
-[history-2020-09-30.kml](https://github.com/mconsulting/legal/blob/main/files/history-2020-09-30.kml)
-
-[history-2020-10-01.kml](https://github.com/mconsulting/legal/blob/main/files/history-2020-10-01.kml)
-
-[history-2020-10-02.kml](https://github.com/mconsulting/legal/blob/main/files/history-2020-10-02.kml)
-
-[history-2020-10-03.kml](https://github.com/mconsulting/legal/blob/main/files/history-2020-10-03.kml)
-
-[history-2020-10-04.kml](https://github.com/mconsulting/legal/blob/main/files/history-2020-10-04.kml)
-
-[history-2020-10-06.kml](https://github.com/mconsulting/legal/blob/main/files/history-2020-10-06.kml)
-
-[history-2020-10-07.kml](https://github.com/mconsulting/legal/blob/main/files/history-2020-10-07.kml)
-
-[history-2020-10-08.kml](https://github.com/mconsulting/legal/blob/main/files/history-2020-10-08.kml)
-
-[history-2020-10-09.kml](https://github.com/mconsulting/legal/blob/main/files/history-2020-10-09.kml)
-
-[history-2020-10-10.kml](https://github.com/mconsulting/legal/blob/main/files/history-2020-10-10.kml)
-
-[history-2020-10-11.kml](https://github.com/mconsulting/legal/blob/main/files/history-2020-10-11.kml)
-
-[history-2020-10-12.kml](https://github.com/mconsulting/legal/blob/main/files/history-2020-10-12.kml)
-
-[history-2020-10-13.kml](https://github.com/mconsulting/legal/blob/main/files/history-2020-10-13.kml)
-
-[history-2020-10-14.kml](https://github.com/mconsulting/legal/blob/main/files/history-2020-10-14.kml)
-
-[history-2020-10-15.kml](https://github.com/mconsulting/legal/blob/main/files/history-2020-10-15.kml)
-
-[history-2020-10-16.kml](https://github.com/mconsulting/legal/blob/main/files/history-2020-10-16.kml)
-
-[history-2020-11-01.kml](https://github.com/mconsulting/legal/blob/main/files/history-2020-11-01.kml)
-
-[history-2020-11-22.kml](https://github.com/mconsulting/legal/blob/main/files/history-2020-11-22.kml)
-
-[history-2020-11-22.zip](https://github.com/mconsulting/legal/blob/main/files/history-2020-11-22.zip)
-
-[history-2020-11-23.kml](https://github.com/mconsulting/legal/blob/main/files/history-2020-11-23.kml)
-
-[history-2020-11-24.kml](https://github.com/mconsulting/legal/blob/main/files/history-2020-11-24.kml)
-
-[history-2020-11-25.geojson](https://github.com/mconsulting/legal/blob/main/files/history-2020-11-25.geojson)
-
-[history-2020-11-25.kml](https://github.com/mconsulting/legal/blob/main/files/history-2020-11-25.kml)
+[history-2020-11-25.zip](https://github.com/mconsulting/legal/blob/main/files/history-2020-11-25.zip)
 
 [Instruments_Selected__Analysis.xlsx](https://github.com/mconsulting/legal/blob/main/files/Instruments_Selected__Analysis.xlsx)
 
@@ -310,19 +260,9 @@
 
 [maps](https://github.com/mconsulting/legal/blob/main/files/maps)
 
-[map_01.json](https://github.com/mconsulting/legal/blob/main/files/map_01.json)
-
-[map_01_as_html.html](https://github.com/mconsulting/legal/blob/main/files/map_01_as_html.html)
-
-[map_01_as_html.zip](https://github.com/mconsulting/legal/blob/main/files/map_01_as_html.zip)
-
-[map_02.kgl.html](https://github.com/mconsulting/legal/blob/main/files/map_02.kgl.html)
-
-[map_02.kgl.zip](https://github.com/mconsulting/legal/blob/main/files/map_02.kgl.zip)
+[Mind Maps.png](https://github.com/mconsulting/legal/blob/main/files/Mind%20Maps.png)
 
 [MindMaps_EcoChallenge.drawio.html](https://github.com/mconsulting/legal/blob/main/files/MindMaps_EcoChallenge.drawio.html)
 
 [Tallahassee_Leon_Record_murders_2020.pdf](https://github.com/mconsulting/legal/blob/main/files/Tallahassee_Leon_Record_murders_2020.pdf)
-
-[_2022-04-27_0911_LHPD_FloridaHighwayPatrol.png](https://github.com/mconsulting/legal/blob/main/files/_2022-04-27_0911_LHPD_FloridaHighwayPatrol.png)
 
