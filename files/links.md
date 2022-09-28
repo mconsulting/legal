@@ -1,6 +1,6 @@
 ## Links
 
-2022-09-18 13:02:05.370866
+2022-09-28 12:32:39.408734
 
 [2016-05-17_1200_HighPressureStack.csv](https://github.com/mconsulting/legal/blob/main/files/2016-05-17_1200_HighPressureStack.csv)
 
@@ -83,6 +83,8 @@
 [2020-11-10_0839_Information for trespass on property after warning.pdf](https://github.com/mconsulting/legal/blob/main/files/2020-11-10_0839_Information%20for%20trespass%20on%20property%20after%20warning.pdf)
 
 [2020-11-10_0839_Information for trespass on property after warning.pdf.url](https://github.com/mconsulting/legal/blob/main/files/2020-11-10_0839_Information%20for%20trespass%20on%20property%20after%20warning.pdf.url)
+
+[2020-11-10_Discovery_Answer.pdf](https://github.com/mconsulting/legal/blob/main/files/2020-11-10_Discovery_Answer.pdf)
 
 [2020-11-18_1803_Lance_Mason_to_Lauren_Brooker_Email_from_FSU_COB.png](https://github.com/mconsulting/legal/blob/main/files/2020-11-18_1803_Lance_Mason_to_Lauren_Brooker_Email_from_FSU_COB.png)
 
@@ -174,7 +176,13 @@
 
 [2021-06-23_2157_PDPD_Warrant_Extradition6547866.pdf](https://github.com/mconsulting/legal/blob/main/files/2021-06-23_2157_PDPD_Warrant_Extradition6547866.pdf)
 
-[2021-06-23_First_Appearances.png](https://github.com/mconsulting/legal/blob/main/files/2021-06-23_First_Appearances.png)
+[2021-06-23_2300_First_Appearances.png](https://github.com/mconsulting/legal/blob/main/files/2021-06-23_2300_First_Appearances.png)
+
+[2021-09-04_0505_Camping_on_beach_3-40-33-924 (Page 1).png](https://github.com/mconsulting/legal/blob/main/files/2021-09-04_0505_Camping_on_beach_3-40-33-924%20%28Page%201%29.png)
+
+[2021-09-04_0505_Camping_on_beach_3-40-33-924 (Page 2).png](https://github.com/mconsulting/legal/blob/main/files/2021-09-04_0505_Camping_on_beach_3-40-33-924%20%28Page%202%29.png)
+
+[2021-09-04_0505_Camping_on_beach_3-40-33-924 (Page 3).png](https://github.com/mconsulting/legal/blob/main/files/2021-09-04_0505_Camping_on_beach_3-40-33-924%20%28Page%203%29.png)
 
 [2021-09-04_0505_pcbpd.pdf](https://github.com/mconsulting/legal/blob/main/files/2021-09-04_0505_pcbpd.pdf)
 
