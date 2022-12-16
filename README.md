@@ -1,10 +1,6 @@
-## Citizen Audit 
+## Lance Mason 
 
-### 2022-09-19 16:14
-
-
-
-Balance Sheet (partial)
+### This is the record of the ongoing saga that began after I developed software that revolutionized an industry.
 
 
 
