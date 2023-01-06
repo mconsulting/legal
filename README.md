@@ -6,7 +6,7 @@
 
 For perspective and to demonstrate the need for the involvement of federal law enforcement, see the [Oklahoma Mineral Interest Acquisitions Map](https://mconsulting.github.io/legal/OKMap.html).
 
-Here is a demonstration of the program and how it was stolen, just before the latest wave of false allegations came through the same Lynn Haven Police Department and the same group of individuals around the Burkes and the Futrells.
+Here is a [demonstration] (https://youtu.be/K8IqI8j10xA) of the program and how it was stolen, just days before the latest wave of false allegations came through the  Lynn Haven Police Department originating from the same group of individuals involved in this same case.
   
 
 1) Video deleted [video from morning incident is on YouTube here](https://youtu.be/hOU10phWPS4) 
