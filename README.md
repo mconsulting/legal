@@ -12,6 +12,8 @@ Go to [wiki](https://github.com/mconsulting/legal/wiki) for more information
 
 [Files in chrononological order](files)
 
+[Email from grandmother](https://github.com/mconsulting/legal/blob/main/files/2018-07-18%20Grandmother%20email.png)
+
 
 
 
