@@ -4,7 +4,7 @@ import os
 import requests
 
 # %%
-companyname='UNBRIDLED'
+companyname='TIMBERWOLF MINERALS LLC'
 
 # %%
 
