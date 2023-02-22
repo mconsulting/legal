@@ -12,6 +12,9 @@ The truth or falsity is easily proven by simply asking who or what company perfo
 ### Partner in the firm that is the county attorney, Burke Blue, making fraudulent statements in this case
 ![RobBlueNoRecallOnFileOpen](https://user-images.githubusercontent.com/11380899/220597227-df85eb21-f0eb-4d00-b181-3a08df3b5c7a.png)
 
+### The Florida Bar Attorney Concumer Assistance Program
+[YouTube audio 1](https://youtu.be/dgw7FjTvLCU?t=4)
+
 ## In progress, Wednesday February 22 morning.  Will be constantly updating here and on Facebook.  
 Please stay tuned for the latest 
 
