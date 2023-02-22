@@ -16,6 +16,14 @@ The truth or falsity is easily proven by simply asking who or what company perfo
 ### The Florida Bar Attorney Concumer Assistance Program
 [YouTube audio 1](https://youtu.be/dgw7FjTvLCU?t=4)
 
+### videos produced in month of October 2021
+
+[Demo]https://www.youtube.com/watch?v=fMACrnfIgr0
+
+## Deprivation of Civil Rights 
+
+
+
 ## In progress, Wednesday February 22 morning.  Will be constantly updating here and on Facebook.  
 Please stay tuned for the latest 
 
