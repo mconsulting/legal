@@ -1,4 +1,4 @@
-## 2023-02-22 Audit sampling for CFO Jimmy Patronis, Attorney General Ashley Moody, and Governor Ron DEsantis
+## 2023-02-22 Audit sampling for CFO Jimmy Patronis, Attorney General Ashley Moody, and Governor Ron DeSantis 
 
 These are items that, using my professional judgment, warrant further inquiry as I believe it can be shown that these funds have received money from the state of Florida to launder illicit proceeds from the theft of intellectual property which can be easily and definitively proven.
 It can be shown that money is laundered through through a network whose sole purpose is to obscure the true identity of the parties owning and receiving a beneficial interest from those same entities.
@@ -7,6 +7,7 @@ The truth or falsity is easily proven by simply asking who or what company perfo
 
 [ Enervest page 42](https://okcountyrecords.com/results/omni=enervest/recorded_date=asc:site_id=asc:instrument_link=asc/page-42)
 
+https://docs.google.com/document/d/1FuGjLJwVdiXcpAHcWHIsMdnQAHTrisVtRE5iFGwvODY/edit?usp=drivesdk
 
 
 ### Partner in the firm that is the county attorney, Burke Blue, making fraudulent statements in this case
