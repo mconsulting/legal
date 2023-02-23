@@ -1,18 +1,14 @@
 ## today 2023-02-22
 
-### Audit sampling for CFO Jimmy Patronis, Attorney General Ashley Moody, and Governor Ron DeSantis 
 
-These are items that, using my professional judgment, warrant further inquiry as I believe it can be shown that these funds have received money from the state of Florida to launder illicit proceeds from the theft of intellectual property which can be easily and definitively proven.
-It can be shown that money is laundered through through a network whose sole purpose is to obscure the true identity of the parties owning and receiving a beneficial interest from those same entities.
+### college of business variance analysis
 
-The truth or falsity is easily proven
- -who or what company performed the services 
-that accounted for the dramatic increases
+### audit planning 
 
 [ Enervest page 42](https://okcountyrecords.com/results/omni=enervest/recorded_date=asc:site_id=asc:instrument_link=asc/page-42)
 ### [Notes on Longpoint, will Cullen podcasts](https://docs.google.com/document/d/1FuGjLJwVdiXcpAHcWHIsMdnQAHTrisVtRE5iFGwvODY/edit?usp=drivesdk)
 
-### Partner in the firm representing the county, Burke Blue, making fraudulent statements in this case
+### Rob Blue, Burke Blue 
 ![RobBlueNoRecallOnFileOpen](https://user-images.githubusercontent.com/11380899/220597227-df85eb21-f0eb-4d00-b181-3a08df3b5c7a.png)
 
 ### The Florida Bar Attorney Concumer Assistance Program
@@ -20,7 +16,7 @@ that accounted for the dramatic increases
 
 ### videos produced in month of October 2021
 
-[Demo]https://www.youtube.com/watch?v=fMACrnfIgr0
+[Demo](https://www.youtube.com/watch?v=fMACrnfIgr0
 
 ## Deprivation of Civil Rights 
 
