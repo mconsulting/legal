@@ -5,7 +5,9 @@
 These are items that, using my professional judgment, warrant further inquiry as I believe it can be shown that these funds have received money from the state of Florida to launder illicit proceeds from the theft of intellectual property which can be easily and definitively proven.
 It can be shown that money is laundered through through a network whose sole purpose is to obscure the true identity of the parties owning and receiving a beneficial interest from those same entities.
 
-The truth or falsity is easily proven by simply asking who or what company performed the services that accounted for the dramatic increase depicted in this graph
+The truth or falsity is easily proven
+ -who or what company performed the services 
+that accounted for the dramatic increases
 
 [ Enervest page 42](https://okcountyrecords.com/results/omni=enervest/recorded_date=asc:site_id=asc:instrument_link=asc/page-42)
 ### [Notes on Longpoint, will Cullen podcasts](https://docs.google.com/document/d/1FuGjLJwVdiXcpAHcWHIsMdnQAHTrisVtRE5iFGwvODY/edit?usp=drivesdk)
