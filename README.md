@@ -2,7 +2,7 @@
 
 ### college of business variance analysis
 
-### audit planning
+### audit planning State Board of Administration
 
 ### [Notes on Longpoint, will Cullen podcasts](https://docs.google.com/document/d/1FuGjLJwVdiXcpAHcWHIsMdnQAHTrisVtRE5iFGwvODY/edit?usp=drivesdk)
 
@@ -27,14 +27,7 @@
 
 [Issues](https://github.com/mconsulting/legal/issues)
 
-[Files in chrononological order](files)
-
-[Email from grandmother](https://github.com/mconsulting/legal/blob/main/files/2018-07-18%20Grandmother%20email.png)
-
-
-
-
-
+[Partial Files in chrononological order](files)
 
 
 
