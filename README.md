@@ -1,11 +1,9 @@
-## today 2023-02-22
-
+## Lance Mason 
 
 ### college of business variance analysis
 
-### audit planning 
+### audit planning
 
-[ Enervest page 42](https://okcountyrecords.com/results/omni=enervest/recorded_date=asc:site_id=asc:instrument_link=asc/page-42)
 ### [Notes on Longpoint, will Cullen podcasts](https://docs.google.com/document/d/1FuGjLJwVdiXcpAHcWHIsMdnQAHTrisVtRE5iFGwvODY/edit?usp=drivesdk)
 
 ### Rob Blue, Burke Blue 
@@ -15,15 +13,6 @@
 [YouTube audio 1](https://youtu.be/dgw7FjTvLCU?t=4)
 
 ### videos produced in month of October 2021
-
-[Demo](https://www.youtube.com/watch?v=fMACrnfIgr0
-
-## Deprivation of Civil Rights 
-
-
-
-## In progress, Wednesday February 22 morning.  Will be constantly updating here and on Facebook.  
-Please stay tuned for the latest 
 
 [Q2_2016_AltAssetReport.pdf](https://github.com/mconsulting/legal/files/10802758/Q2_2016_AltAssetReport.pdf)
 
