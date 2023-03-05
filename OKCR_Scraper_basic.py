@@ -6,7 +6,7 @@ import requests
 # %%
 companyname='TIMBERWOLF MINERALS LLC'
 
-# %%
+  # %%
 
 
 class HTML_Collector(object):
@@ -44,8 +44,9 @@ class HTML_Collector(object):
                 res=self.session.get(url)
                 dfList=pd.read_html(res.content)
                 df=dfList[0]
+                df["Recorded"]=pd.to_datetime(df["Recorded"])
                 df["company"]=company
-                df["source"]=url
+                # df["source"]=url
                 df["url"]= "https://okcountyrecords.com/detail/" + df["County"] + "/" + df["Instrument"]
             
                 df.set_index("url",inplace=True)
@@ -98,20 +99,20 @@ def Combine(file_list,company):
 
             columns_to_include=[col for col in df.columns][1:]
             df2=df[columns_to_include]
-            df["url"]= "https://okcountyrecords.com/detail/" + df["County"] + "/" + df["Instrument"]       
+            # df["url"]= "https://okcountyrecords.com/detail/" + df["County"] + "/" + df["Instrument"]       
                 
             #df2.set_index("url",inplace=True)
             
             print("appending " + fn)
             dfs.append(df2)
-            os.remove(fn)
+            # os.remove(fn)
             #dfs.append(pd.read_excel()
         print("concatenating " + str(len(dfs)) + " dataframes")
         dfAll=pd.concat(dfs,ignore_index=True)
         intRowsAfter=len(dfAll)
         intNewRows=intRowsAfter-intRowsBefore
         
-        dfAll.to_excel(company + ".xlsx")
+        dfAll.to_csv(company + ".xlsx")
         print(str(intNewRows)+ " added for "+ company)
 
 # %%
