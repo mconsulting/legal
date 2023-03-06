@@ -1,5 +1,7 @@
 ## Lance Mason Pages on Git
 
+[Eco Challenge](challenge_v01.drawio.html)
+
 [Oklahoma Minerals Acquisitions Map](OKMap.html)
 
 [Snookie Raines Memorial](Snookie_Raines_Memorial.pdf)
