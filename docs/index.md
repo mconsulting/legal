@@ -1,6 +1,6 @@
 ## Lance Mason Pages on Git
 
-[Eco Challenge](challenge_v01.drawio.html)
+[Eco Challenge](Eco challenge_v01.drawio.html)
 
 [Oklahoma Minerals Acquisitions Map](OKMap.html)
 
