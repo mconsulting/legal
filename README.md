@@ -1,14 +1,14 @@
 # Lance Mason 
 
+Home repository for Lance Mason Prepaid Legal.
 
-# [wiki](https://github.com/mconsulting/legal/wiki) 
 
 
-# [Discussions](https://github.com/mconsulting/legal/discussions)
 
-# [Issues](https://github.com/mconsulting/legal/issues)
+### [wiki](https://github.com/mconsulting/legal/wiki) 
 
-# [Partial Files in chrononological order](files)
+
+### [files](files)
 
 
 
