@@ -1,7 +1,7 @@
 # Lance Mason 
 
-### under construction. thank you for your patience..
-Lance Mason 
+### Legal Repository 
+
 
 [map](https://mconsulting.github.io/legal/OKMap.html)
 
