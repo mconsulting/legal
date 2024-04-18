@@ -1,6 +1,6 @@
-# Lance Mason 
+# Lance Mason Legal 
 
-### Legal Repository 
+
 
 
 [map](https://mconsulting.github.io/legal/OKMap.html)
