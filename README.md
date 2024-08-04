@@ -1,7 +1,6 @@
 # Lance Mason Legal 
 
-In a nutshell, the cases involving me as a crimninal defendant are the result of my having created the software that has created an industry, the "minerals space" as it is called by 
- the guys at [mineral rights '[https://mineralrightspodcast.com/']
+Work in progress
 
 
 
